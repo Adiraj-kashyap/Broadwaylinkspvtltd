@@ -1,0 +1,89 @@
+{
+    "earthwork_capacity": {
+        "max_annual_quantity_m3": 544833.419,
+        "year_achieved": "2020-21"
+    },
+    "concrete_work_capacity": {
+        "max_annual_quantity_m3": 17806.90,
+        "year_achieved": "2021-22"
+    },
+    "brick_work_capacity": {
+        "max_annual_quantity_m3": 5426.59,
+        "year_achieved": "2023-24"
+    },
+    "road_works": {
+        "non_bituminous_m3": 214442.97,
+        "bituminous_m3": 16895.57,
+        "description": "High capacity for GSB, WMM, and Bituminous works demonstrated in Indo-Nepal Border Road Project."
+    },
+    "peak_capacity": {
+        "infra_works": [
+            {
+                "item": "Earthwork",
+                "unit": "Cum",
+                "total_last_5_years": 4691932,
+                "peak_annual": 1366185,
+                "peak_monthly": 130379
+            },
+            {
+                "item": "Concreting",
+                "unit": "Cum",
+                "total_last_5_years": 186341,
+                "peak_annual": 45442,
+                "peak_monthly": 5142
+            },
+            {
+                "item": "GSB/WMM",
+                "unit": "Cum",
+                "total_last_5_years": 358702,
+                "peak_annual": 166924,
+                "peak_monthly": 17072
+            },
+            {
+                "item": "Bituminous Works",
+                "unit": "Cum",
+                "total_last_5_years": 89566,
+                "peak_annual": 35835,
+                "peak_monthly": 4479
+            }
+        ],
+        "oil_and_gas": [
+            {
+                "item": "Piling (Hydraulic)",
+                "unit": "Rm",
+                "total_last_5_years": 75000,
+                "peak_annual": 45000,
+                "peak_monthly": 7500
+            },
+            {
+                "item": "Concreting",
+                "unit": "Cum",
+                "total_last_5_years": 162837,
+                "peak_annual": 45000,
+                "peak_monthly": 5200
+            },
+            {
+                "item": "Structural Steel",
+                "unit": "MT",
+                "total_last_5_years": 3900,
+                "peak_annual": 1412,
+                "peak_monthly": 505
+            },
+            {
+                "item": "UG/AG Piping",
+                "unit": "Inch Dia",
+                "total_last_5_years": 225000,
+                "peak_annual": 96000,
+                "peak_monthly": 18140
+            }
+        ]
+    },
+    "key_equipment_capabilities": [
+        "Earthwork by Mechanical Means (Excavators, Graders)",
+        "Canal Lining with Pavers",
+        "Concrete Lining (1000 cum/month)",
+        "Hot Mix Plants (120 TPH x 2)",
+        "RCC Box Culverts Construction",
+        "Piling Works (RCC Bored Cast In-situ)"
+    ]
+}

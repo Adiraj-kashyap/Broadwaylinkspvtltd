@@ -1,0 +1,131 @@
+{
+    "company_overview": {
+        "name": "Broadway Links Private Limited",
+        "established": 2001,
+        "headquarters": "Begusarai, Bihar, India",
+        "certifications": [
+            "ISO 9001:2015",
+            "ISO 45001:2018"
+        ],
+        "founders": [
+            "Ajay Kumar Singh"
+        ],
+        "directors": [
+            "Ajay Kumar",
+            "Sanjay Kumar Singh"
+        ],
+        "key_personnel": [
+            {
+                "name": "Sanjay Sharma",
+                "role": "Director (Real Estate)"
+            },
+            {
+                "name": "S.N. Rai",
+                "role": "CEO"
+            },
+            {
+                "name": "P.N. Chaterjee",
+                "role": "GM Roads & Highways"
+            },
+            {
+                "name": "Siddhant Singh",
+                "role": "COO (Oil & Gas)"
+            },
+            {
+                "name": "Tanmay Randhir",
+                "role": "Head (Finance & Accounts)"
+            },
+            {
+                "name": "Mr. Maninder Singh",
+                "role": "RCM (Mechanical Works)"
+            },
+            {
+                "name": "Mr. Pallav Borkakoti",
+                "role": "RCM (Civil Works)"
+            }
+        ]
+    },
+    "business_verticals": [
+        "Construction & Infrastructure",
+        "Oil & Gas",
+        "Stone Aggregate Mining & Crushing",
+        "Iron & Steel (Furnace/Rolling Mill)",
+        "Petroleum Retailing",
+        "Real Estate",
+        "Ethanol Production"
+    ],
+    "group_companies": [
+        {
+            "name": "Shakti Diesel",
+            "established": 1990,
+            "vertical": "Petroleum Retailing",
+            "location": "Begusarai"
+        },
+        {
+            "name": "Jai Mangla Steels Pvt Ltd",
+            "established": 1993,
+            "vertical": "Iron & Steel (Furnace/Rolling Mill)",
+            "location": "Begusarai"
+        },
+        {
+            "name": "Jai Mata Di Metals Pvt Ltd",
+            "established": 1994,
+            "vertical": "TMT Bar Production",
+            "location": "North Bihar (Begusarai, Darbhanga, etc.)"
+        },
+        {
+            "name": "Broadway Links Pvt Ltd",
+            "established": 2001,
+            "vertical": "Construction, Fabrication, Mining",
+            "location": "North & South Bihar",
+            "highlight": "Flagship Company"
+        },
+        {
+            "name": "New Way Homes Pvt Ltd",
+            "established": 2011,
+            "vertical": "Real Estate",
+            "location": "Greater Noida West & Dehradun"
+        },
+        {
+            "name": "Shakti Earth Movers",
+            "established": 2015,
+            "vertical": "JCB Dealership",
+            "location": "North Bihar (26 Districts)"
+        }
+    ],
+    "key_stats": {
+        "current_order_book_crores": 1143.70,
+        "completed_projects_value_crores": 2293.00,
+        "roads_constructed_km": "500+",
+        "structures_built": "500+ Box Culverts",
+        "piping_installed_meter": "315,000 IM",
+        "structural_steel_mt": "12,500 MT"
+    },
+    "policies": {
+        "subcontracting": "No Subcontracting Proposed (100% Self-Reliant Execution)"
+    },
+    "preferred_vendors": {
+        "bitumen": [
+            "IOCL",
+            "BPCL",
+            "HPCL",
+            "HIND",
+            "N"
+        ],
+        "cement": [
+            "Prism",
+            "Birla",
+            "Ambuja",
+            "Ultratech",
+            "Bangur",
+            "Shree Cement"
+        ],
+        "steel": [
+            "SAIL",
+            "Shyam Steel",
+            "Tata Steel",
+            "Indal Steel",
+            "Electrosteel"
+        ]
+    }
+}
