@@ -1,0 +1,102 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@plugin "tailwindcss-animate";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+}
+
+:root {
+  /* Updated to construction industry color scheme */
+  --background: 255 255 255;
+  --foreground: 11 44 77;
+  /* Deep Blue text */
+  --card: 255 255 255;
+  --card-foreground: 11 44 77;
+  --popover: 255 255 255;
+  --popover-foreground: 11 44 77;
+  --primary: 11 44 77;
+  /* Navy */
+  --primary-foreground: 255 255 255;
+  --secondary: 242 140 40;
+  /* Construction Orange */
+  --secondary-foreground: 255 255 255;
+  --muted: 245 247 250;
+  --muted-foreground: 100 116 139;
+  --accent: 242 140 40;
+  --accent-foreground: 255 255 255;
+  --destructive: 239 68 68;
+  --destructive-foreground: 255 255 255;
+  --border: 226 232 240;
+  --input: 226 232 240;
+  --ring: 242 140 40;
+  --radius: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  /* 
+     Fix for Radix UI layout shift.
+     We force the scrollbar to ALWAYS extend into the viewport so it doesn't take up layout space
+     OR we force it to always exist and prevent Radix from adding padding.
+  */
+  html {
+    overflow-y: scroll;
+    /* Scrollbar always exists */
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    width: 100%;
+    margin-right: 0 !important;
+  }
+
+  /* When Radix locks the body, it adds padding-right. We undo this. */
+  body[style*="padding-right"] {
+    padding-right: 0 !important;
+  }
+
+  /* Ensure no overflow hidden kills the scrollbar we want to keep visible */
+  body[style*="overflow: hidden"] {
+    overflow: visible !important;
+    overflow-y: scroll !important;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-5xl font-bold text-foreground mb-6 tracking-tight;
+  }
+}
