@@ -4,23 +4,46 @@ import { motion } from "framer-motion"
 import Navbar from "@/components/navbar"
 import CompanyIntroSection from "@/components/company-intro-section"
 import { ArrowRight, Calendar, Users, Briefcase, Award } from "lucide-react"
+import CoreValuesSection from "@/components/core-values-section"
+import historyData from "@/data/history.json"
 import profileData from "@/data/profile.json"
 
 export default function AboutPage() {
-    const milestones = [
-        { year: "2015", title: "Company Founded", desc: "BLPL established with a vision to transform rural infrastructure." },
-        { year: "2016", title: "First Major Highway", desc: "Awarded our first National Highway project in Bihar." },
-        { year: "2018", title: "Minning Operations", desc: "Expanded into Stone Mining & Crushing in Jharkhand." },
-        { year: "2020", title: "Oil & Gas Entry", desc: "Partnered with IOCL for major refinery civil works." },
-        { year: "2023", title: "Fleet Expansion", desc: "Crossed 200+ major equipment units." },
-        { year: "2024", title: "Ethanol Plant", desc: "Diversified into sustainable energy production." }
-    ]
-
     return (
         <main className="min-h-screen bg-white">
             <Navbar />
             <div className="pt-20">
-                <CompanyIntroSection />
+                <CompanyIntroSection hideJourneyButton={true} />
+
+                {/* Certifications Section */}
+                <section className="py-12 bg-white border-b border-gray-100">
+                    <div className="max-w-7xl mx-auto px-4">
+                        <div className="text-center mb-10">
+                            <span className="text-[#F28C28] font-bold uppercase tracking-wider text-sm">Quality & Safety</span>
+                            <h2 className="text-2xl font-bold mt-2 text-[#0B2C4D]">Accredited Excellence</h2>
+                        </div>
+                        <div className="flex flex-col md:flex-row justify-center items-center gap-8 overflow-x-auto">
+                            <div className="flex flex-col items-center group min-w-[200px]">
+                                <div className="h-48 w-48 p-2 border border-gray-200 rounded-xl bg-white shadow-sm group-hover:shadow-md transition-all">
+                                    <img src="/images/iso-9001-2015.png" alt="ISO 9001" className="w-full h-full object-contain" />
+                                </div>
+                                <p className="mt-3 font-semibold text-[#0B2C4D]">ISO 9001:2015</p>
+                            </div>
+                            <div className="flex flex-col items-center group min-w-[200px]">
+                                <div className="h-48 w-48 p-2 border border-gray-200 rounded-xl bg-white shadow-sm group-hover:shadow-md transition-all">
+                                    <img src="/images/iso-45001-2018.png" alt="ISO 45001" className="w-full h-full object-contain" />
+                                </div>
+                                <p className="mt-3 font-semibold text-[#0B2C4D]">ISO 45001:2018</p>
+                            </div>
+                            <div className="flex flex-col items-center group min-w-[200px]">
+                                <div className="h-48 w-48 p-2 border border-gray-200 rounded-xl bg-white shadow-sm group-hover:shadow-md transition-all">
+                                    <img src="/images/iso-14001-2015.jpg" alt="ISO 14001" className="w-full h-full object-contain" />
+                                </div>
+                                <p className="mt-3 font-semibold text-[#0B2C4D]">ISO 14001:2015</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
 
                 <section className="py-20 bg-gray-50">
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -71,6 +94,9 @@ export default function AboutPage() {
                     </div>
                 </section>
 
+                {/* Core Values */}
+                <CoreValuesSection />
+
                 {/* Timeline */}
                 <section className="py-20 bg-white">
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -84,7 +110,7 @@ export default function AboutPage() {
                             <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-0.5 bg-gray-200 hidden md:block"></div>
 
                             <div className="space-y-12">
-                                {milestones.map((item, index) => (
+                                {historyData.slice().reverse().map((item, index) => (
                                     <motion.div
                                         key={index}
                                         initial={{ opacity: 0, y: 20 }}
@@ -95,7 +121,7 @@ export default function AboutPage() {
                                         <div className="flex-1 w-full md:w-1/2 p-6 bg-white rounded-xl shadow-md border hover:border-[#F28C28] transition-colors text-center md:text-left">
                                             <div className="text-2xl font-bold text-[#F28C28] mb-2">{item.year}</div>
                                             <h4 className="text-xl font-bold text-[#0B2C4D] mb-2">{item.title}</h4>
-                                            <p className="text-gray-600">{item.desc}</p>
+                                            <p className="text-gray-600">{item.description}</p>
                                         </div>
                                         <div className="w-10 h-10 bg-[#0B2C4D] rounded-full flex items-center justify-center shrink-0 z-10 border-4 border-white shadow-lg">
                                             <Calendar className="w-4 h-4 text-white" />

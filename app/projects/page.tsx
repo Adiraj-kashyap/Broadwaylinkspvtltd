@@ -25,7 +25,7 @@ export default function ProjectsPage() {
     const filteredProjects = useMemo(() => {
         return allProjects.filter(p =>
             p.project_name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-            p.location.toLowerCase().includes(searchQuery.toLowerCase()) ||
+            (p.location ? p.location.toLowerCase().includes(searchQuery.toLowerCase()) : false) ||
             p.client.toLowerCase().includes(searchQuery.toLowerCase())
         )
     }, [searchQuery, allProjects])
@@ -140,8 +140,21 @@ function ProjectCard({ project, type, index }: { project: any, type: string, ind
             transition={{ delay: index * 0.1 }}
         >
             <Card className="h-full border-gray-200 hover:border-[#F28C28] hover:shadow-xl hover:-translate-y-2 transition-all duration-300 group overflow-hidden">
-                <div className={`h-2 w-full ${isOngoing ? 'bg-[#F28C28]' : 'bg-[#2C9F45]'}`} />
-                <CardHeader className="pb-3">
+                <div className="relative h-48 w-full overflow-hidden bg-gray-100">
+                    {project.image ? (
+                        <img
+                            src={project.image}
+                            alt={project.project_name}
+                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                        />
+                    ) : (
+                        <div className={`w-full h-full flex items-center justify-center ${isOngoing ? 'bg-orange-50' : 'bg-green-50'}`}>
+                            <Factory className={`w-12 h-12 ${isOngoing ? 'text-orange-200' : 'text-green-200'}`} />
+                        </div>
+                    )}
+                    <div className={`absolute top-0 left-0 w-full h-1 ${isOngoing ? 'bg-[#F28C28]' : 'bg-[#2C9F45]'}`} />
+                </div>
+                <CardHeader className="pb-3 pt-4">
                     <div className="flex justify-between items-start gap-4">
                         <Badge variant={isOngoing ? "default" : "secondary"}
                             className={`${isOngoing ? 'bg-orange-100 text-orange-800 hover:bg-orange-100' : 'bg-green-100 text-green-800 hover:bg-green-100'} border-0 mb-2`}>

@@ -12,11 +12,12 @@ import { ArrowRight, BarChart3, Truck, Activity, Search, ChevronLeft, ChevronRig
 // Helper to map equipment names to categories/icons
 const getCategoryIcon = (name: string) => {
     const n = name.toLowerCase()
-    if (n.includes("excavator")) return Shovel
-    if (n.includes("paver") || n.includes("roller")) return GripVertical
-    if (n.includes("loader") || n.includes("backhoe")) return Truck
-    if (n.includes("crane")) return Hammer
-    if (n.includes("batching") || n.includes("conveyor")) return Disc
+    if (n.includes("excavator") || n.includes("backhoe")) return Shovel
+    if (n.includes("paver") || n.includes("roller") || n.includes("compactor") || n.includes("grader")) return GripVertical
+    if (n.includes("loader") || n.includes("bobcat") || n.includes("hydra") || n.includes("crane")) return Truck
+    if (n.includes("batching") || n.includes("conveyor") || n.includes("plant") || n.includes("mixer") || n.includes("pump")) return Disc
+    if (n.includes("truck") || n.includes("tanker") || n.includes("trailer") || n.includes("hyva")) return Truck
+    if (n.includes("drill")) return Hammer
     return Settings
 }
 
@@ -224,9 +225,36 @@ export default function FleetPage() {
                                         <div className="absolute top-0 right-0 w-24 h-24 bg-gray-50 rounded-bl-full -mr-4 -mt-4 transition-colors group-hover:bg-[#F28C28] pointer-events-none z-0"></div>
 
                                         <CardHeader className="bg-gray-50 pb-4 border-b border-gray-100 flex-none h-[110px] flex items-center justify-center group-hover:bg-[#F28C28]/5 transition-colors relative z-10">
-                                            <div className="w-16 h-16 bg-white rounded-lg shadow-sm flex items-center justify-center text-xl font-bold text-gray-400 group-hover:text-white group-hover:bg-[#F28C28] group-hover:scale-110 transition-all duration-300 shadow-inner">
-                                                {/* Logo Placeholder - using first letter */}
-                                                {item.name.charAt(0)}
+                                            <div className="w-16 h-16 bg-white rounded-lg shadow-sm flex items-center justify-center text-xl font-bold text-gray-400 group-hover:text-white group-hover:bg-[#F28C28] group-hover:scale-110 transition-all duration-300 shadow-inner overflow-hidden">
+                                                {(() => {
+                                                    const brandLogos: Record<string, string> = {
+                                                        "L&T Komatsu": "/images/brands/komatsu.jpg",
+                                                        "Komatsu": "/images/brands/komatsu.jpg",
+                                                        "JCB": "/images/brands/jcb.jpg",
+                                                        "Ashok Leyland": "/images/brands/ashok-leyland.jpg",
+                                                        "Tata": "/images/brands/tata.png",
+                                                        "Volvo": "/images/brands/volvo.png" // Assuming you might add this later
+                                                    }
+
+                                                    const logoSrc = brandLogos[item.name] || brandLogos[item.name.replace("L&T ", "")]
+
+                                                    if (logoSrc) {
+                                                        return (
+                                                            <img
+                                                                src={logoSrc}
+                                                                alt={item.name}
+                                                                className="w-full h-full object-contain p-2 group-hover:brightness-0 group-hover:invert transition-all"
+                                                                onError={(e) => {
+                                                                    (e.target as HTMLImageElement).style.display = 'none';
+                                                                    (e.target as HTMLImageElement).nextElementSibling?.classList.remove('hidden');
+                                                                }}
+                                                            />
+                                                        )
+                                                    }
+
+                                                    return item.name.charAt(0)
+                                                })()}
+                                                <span className="hidden">{item.name.charAt(0)}</span>
                                             </div>
                                         </CardHeader>
                                         <CardContent className="p-6 text-center flex-grow flex flex-col justify-between relative z-10">
