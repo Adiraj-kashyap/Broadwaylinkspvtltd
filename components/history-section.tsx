@@ -1,15 +1,13 @@
 "use client"
 import { motion } from "framer-motion"
+import historyData from "@/data/history.json"
 
 export default function HistorySection() {
-  const milestones = [
-    { year: "2015", event: "Company Founded" },
-    { year: "2016", event: "First Major National Highway Project" },
-    { year: "2018", event: "ISO 9001:2015 Certification Achieved" },
-    { year: "2020", event: "Order Book Reaches ₹200+ Crores" },
-    { year: "2023", event: "Fleet Expanded to 200+ Equipment Units" },
-    { year: "2024–2025", event: "Ongoing pan-India infrastructure projects" },
-  ]
+  // Use data from JSON
+  const milestones = historyData.map(item => ({
+    year: item.year,
+    event: item.description
+  }))
 
   const values = [
     { title: "Excellence in Execution", description: "Quality-first approach to every project" },

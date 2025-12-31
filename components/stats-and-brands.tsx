@@ -15,11 +15,15 @@ export default function StatsAndBrands() {
         turnover: (t.amount_inr / 10000000).toFixed(0) // Convert to Cr
     })).reverse()
 
-    const brands = [
-        ...profileData.preferred_vendors.cement,
-        ...profileData.preferred_vendors.steel,
-        ...profileData.preferred_vendors.bitumen
-    ].filter((v, i, a) => a.indexOf(v) === i) // Unique brands
+    const partners = [
+        { type: 'img', src: '/images/brands/indian-oil.png', alt: 'Indian Oil' },
+        { type: 'img', src: '/images/brands/nhai.png', alt: 'NHAI' },
+        { type: 'img', src: '/images/brands/punj-lloyd.jpeg', alt: 'Punj Lloyd' },
+        { type: 'text', value: 'Prism' },
+        { type: 'img', src: '/images/brands/birla.jpeg', alt: 'Birla' },
+        { type: 'img', src: '/images/brands/ambhuja.png', alt: 'Ambuja Cement' },
+        { type: 'img', src: '/images/brands/ultratech.png', alt: 'Ultratech' },
+    ]
 
     return (
         <section className="py-20 bg-white">
@@ -33,7 +37,7 @@ export default function StatsAndBrands() {
                     >
                         <h2 className="text-3xl font-bold text-[#0B2C4D] mb-6">Consistent Growth Track Record</h2>
                         <p className="text-gray-600 mb-8">
-                            With an average annual turnover of <strong>₹197 Crores</strong> and a strong balance sheet,
+                            With an average annual turnover of <strong>₹{(financialsData.average_annual_turnover / 10000000).toFixed(0)} Crores</strong> and a strong balance sheet,
                             BLPL demonstrates financial stability and execution capability for large-scale infrastructure projects.
                         </p>
 
@@ -82,17 +86,61 @@ export default function StatsAndBrands() {
                 </div>
 
                 {/* Brands Ticker */}
-                <div className="mt-24 pt-12 border-t border-gray-100">
+                <div className="mt-24 pt-12 border-t border-gray-100 overflow-hidden">
                     <p className="text-center text-sm font-semibold text-gray-400 uppercase tracking-wider mb-8">Trusted Brand Partners</p>
-                    <div className="flex flex-wrap justify-center gap-x-12 gap-y-8 opacity-60 grayscale hover:grayscale-0 transition-all duration-500 items-center">
-                        {/* Static images for known partners */}
-                        <img src="/images/brands/indian-oil.png" alt="Indian Oil" className="h-16 w-auto object-contain hover:scale-110 transition-transform" />
-                        <img src="/images/brands/nhai.png" alt="NHAI" className="h-16 w-auto object-contain hover:scale-110 transition-transform" />
-                        <img src="/images/brands/punj-lloyd.jpeg" alt="Punj Lloyd" className="h-16 w-auto object-contain hover:scale-110 transition-transform" />
 
-                        {brands.slice(0, 7).map(brand => (
-                            <span key={brand} className="text-xl font-bold text-[#0B2C4D]">{brand}</span>
-                        ))}
+                    {/* Marquee Container */}
+                    {/* Marquee Container */}
+                    <div className="relative flex overflow-hidden group mask-linear-gradient select-none">
+                        {/* First Block */}
+                        <motion.div
+                            className="flex shrink-0 gap-16 items-center min-w-full pr-16"
+                            animate={{ x: "-100%" }}
+                            transition={{
+                                repeat: Infinity,
+                                ease: "linear",
+                                duration: 30
+                            }}
+                        >
+                            {[...partners, ...partners].map((partner, i) => (
+                                <div key={i} className="flex items-center justify-center min-w-[150px] h-16 opacity-60 hover:opacity-100 transition-opacity grayscale hover:grayscale-0">
+                                    {partner.type === 'img' ? (
+                                        <img
+                                            src={partner.src}
+                                            alt={partner.alt}
+                                            className="h-16 w-auto object-contain hover:scale-110 transition-transform"
+                                        />
+                                    ) : (
+                                        <span className="text-2xl font-bold text-[#0B2C4D]">{partner.value}</span>
+                                    )}
+                                </div>
+                            ))}
+                        </motion.div>
+
+                        {/* Second Block (Duplicate) */}
+                        <motion.div
+                            className="flex shrink-0 gap-16 items-center min-w-full pr-16"
+                            animate={{ x: "-100%" }}
+                            transition={{
+                                repeat: Infinity,
+                                ease: "linear",
+                                duration: 30
+                            }}
+                        >
+                            {[...partners, ...partners].map((partner, i) => (
+                                <div key={`${i}-duplicate`} className="flex items-center justify-center min-w-[150px] h-16 opacity-60 hover:opacity-100 transition-opacity grayscale hover:grayscale-0">
+                                    {partner.type === 'img' ? (
+                                        <img
+                                            src={partner.src}
+                                            alt={partner.alt}
+                                            className="h-16 w-auto object-contain hover:scale-110 transition-transform"
+                                        />
+                                    ) : (
+                                        <span className="text-2xl font-bold text-[#0B2C4D]">{partner.value}</span>
+                                    )}
+                                </div>
+                            ))}
+                        </motion.div>
                     </div>
                 </div>
             </div>

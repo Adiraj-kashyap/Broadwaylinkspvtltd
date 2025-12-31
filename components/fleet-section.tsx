@@ -11,6 +11,7 @@ const brandImageMap: Record<string, string> = {
   "tata": "/images/brands/tata.png",
   "ashok leyland": "/images/brands/ashok-leyland.jpg",
   "kyb conmat": "/images/brands/kyb-conmat.jpg",
+  "l&t komatsu": "/images/brands/komatsu.jpg",
   "komatsu": "/images/brands/komatsu.jpg",
   "beml": "/images/brands/beml.jpg",
   "liugong": "/images/brands/liugong.jpg",

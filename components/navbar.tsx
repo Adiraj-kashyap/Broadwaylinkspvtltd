@@ -3,6 +3,7 @@
 
 import { useState, useEffect, Suspense } from "react"
 import { Menu, X } from "lucide-react"
+import { motion } from "framer-motion"
 import Link from "next/link"
 import Image from "next/image"
 import { usePathname, useRouter, useSearchParams } from "next/navigation"
@@ -21,9 +22,7 @@ function NavbarContent() {
     { label: "Projects", href: "/projects", id: "", isScroll: false },
     { label: "Sectors", href: "/sectors", id: "sectors", isScroll: true },
     { label: "Fleet", href: "/fleet", id: "fleet", isScroll: true },
-    // { label: "Request", href: "/resources/request", id: "", isScroll: false },
     { label: "Contact", href: "/contact", id: "contact", isScroll: true },
-    // { label: "Admin", href: "/admin", id: "", isScroll: false },
   ]
 
   // Handle initial scroll from query params (e.g. /?target=about)
@@ -146,12 +145,20 @@ function NavbarContent() {
                 key={item.href}
                 href={item.href}
                 onClick={(e) => handleNavClick(e, item)}
-                className={`px-3 py-2 text-sm font-medium transition-colors ${isActive(item)
-                  ? "text-[#F28C28] border-b-2 border-[#F28C28]"
+                className={`relative px-3 py-2 text-sm font-medium transition-colors ${isActive(item)
+                  ? "text-[#F28C28]"
                   : "text-gray-100 hover:text-[#F28C28]"
                   }`}
               >
                 {item.label}
+                {isActive(item) && (
+                  <motion.div
+                    layoutId="navbar-underline"
+                    className="absolute bottom-0 left-0 right-0 h-0.5 bg-[#F28C28]"
+                    initial={false}
+                    transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                  />
+                )}
               </Link>
             ))}
           </div>

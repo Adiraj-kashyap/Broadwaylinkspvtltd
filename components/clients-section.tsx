@@ -1,22 +1,8 @@
 "use client"
 import { motion } from "framer-motion"
+import clientsData from "@/data/clients.json"
 
 export default function ClientsSection() {
-  const clients = {
-    Government: [
-      "Ministry of Road Transport & Highways",
-      "National Highways Authority of India",
-      "Indian Railways",
-      "State Public Works Departments",
-    ],
-    "Public Sector": ["ONGC", "Indian Oil Corporation", "NTPC", "Power Grid Corporation"],
-    "Select Private Sector": [
-      "Major infrastructure developers",
-      "Industrial and energy companies",
-      "Multinational construction firms",
-    ],
-  }
-
   return (
     <section id="clients" className="py-16 md:py-24 bg-[#F5F7FA]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -30,7 +16,7 @@ export default function ClientsSection() {
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {Object.entries(clients).map(([category, clientList], idx) => (
+          {Object.entries(clientsData).map(([category, clientList], idx) => (
             <motion.div
               key={category}
               initial={{ opacity: 0, y: 20 }}

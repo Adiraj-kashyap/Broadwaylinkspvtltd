@@ -1,6 +1,7 @@
 "use client"
 
 import { motion } from "framer-motion"
+import profileData from "@/data/profile.json"
 
 export default function HeroSection() {
   const handleScroll = (sectionId: string) => {
@@ -49,8 +50,8 @@ export default function HeroSection() {
             End-to-End Infrastructure Execution for India
           </h2>
           <p className="text-lg md:text-xl mb-10 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-            Specialized in national highways, bridges, industrial projects, and oil & gas infrastructure. Over <span className="text-[#F28C28] font-bold">₹500 Cr</span> in
-            active order book with a fleet of <span className="text-[#F28C28] font-bold">200+</span> equipment units.
+            Specialized in national highways, bridges, industrial projects, and oil & gas infrastructure. Over <span className="text-[#F28C28] font-bold">₹{profileData.key_stats.current_order_book_crores} Cr</span> in
+            active order book with a fleet of <span className="text-[#F28C28] font-bold">{profileData.key_stats.fleet_size_plus}+</span> equipment units.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
