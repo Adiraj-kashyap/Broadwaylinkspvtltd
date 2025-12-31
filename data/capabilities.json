@@ -1,19 +1,19 @@
 {
     "earthwork_capacity": {
-        "max_annual_quantity_m3": 544833.419,
-        "year_achieved": "2020-21"
+        "max_annual_quantity_m3": 1851375,
+        "year_achieved": "Peak Annual"
     },
     "concrete_work_capacity": {
-        "max_annual_quantity_m3": 17806.90,
-        "year_achieved": "2021-22"
+        "max_annual_quantity_m3": 53917,
+        "year_achieved": "Peak Annual"
     },
     "brick_work_capacity": {
         "max_annual_quantity_m3": 5426.59,
         "year_achieved": "2023-24"
     },
     "road_works": {
-        "non_bituminous_m3": 214442.97,
-        "bituminous_m3": 16895.57,
+        "non_bituminous_m3": 116969,
+        "bituminous_m3": 22457,
         "description": "High capacity for GSB, WMM, and Bituminous works demonstrated in Indo-Nepal Border Road Project."
     },
     "peak_capacity": {
@@ -21,60 +21,144 @@
             {
                 "item": "Earthwork",
                 "unit": "Cum",
-                "total_last_5_years": 4691932,
-                "peak_annual": 1366185,
-                "peak_monthly": 130379
+                "total_last_5_years": 5655060,
+                "peak_annual": 1851375,
+                "peak_monthly": 231421
             },
             {
                 "item": "Concreting",
                 "unit": "Cum",
-                "total_last_5_years": 186341,
-                "peak_annual": 45442,
-                "peak_monthly": 5142
+                "total_last_5_years": 207121,
+                "peak_annual": 53917,
+                "peak_monthly": 6750
             },
             {
-                "item": "GSB/WMM",
-                "unit": "Cum",
-                "total_last_5_years": 358702,
-                "peak_annual": 166924,
-                "peak_monthly": 17072
+                "item": "HYSD Bar Supply & Fixing",
+                "unit": "MT",
+                "total_last_5_years": 5607,
+                "peak_annual": 1656,
+                "peak_monthly": 207
             },
             {
-                "item": "Bituminous Works",
+                "item": "GSB + WMM",
                 "unit": "Cum",
-                "total_last_5_years": 89566,
-                "peak_annual": 35835,
-                "peak_monthly": 4479
+                "total_last_5_years": 445624,
+                "peak_annual": 116969,
+                "peak_monthly": 13953
+            },
+            {
+                "item": "Bituminous Works (DBM+BC)",
+                "unit": "Cum",
+                "total_last_5_years": 75038,
+                "peak_annual": 22457,
+                "peak_monthly": 2807
+            },
+            {
+                "item": "Protection Works (Boulder Pitching)",
+                "unit": "Cum",
+                "total_last_5_years": 19063,
+                "peak_annual": 10568,
+                "peak_monthly": 1321
+            },
+            {
+                "item": "25mm thick Mastic Asphalt",
+                "unit": "Sqm",
+                "total_last_5_years": 10631,
+                "peak_annual": 9341,
+                "peak_monthly": 1168
+            },
+            {
+                "item": "Road Marking",
+                "unit": "Sqm",
+                "total_last_5_years": 12414,
+                "peak_annual": 8330,
+                "peak_monthly": 1980
             }
         ],
         "oil_and_gas": [
             {
-                "item": "Piling (Hydraulic)",
+                "item": "Piling 500mm & 600mm Dia",
                 "unit": "Rm",
-                "total_last_5_years": 75000,
-                "peak_annual": 45000,
-                "peak_monthly": 7500
+                "total_last_5_years": 64500,
+                "peak_annual": 38925,
+                "peak_monthly": 6500
             },
             {
                 "item": "Concreting",
                 "unit": "Cum",
-                "total_last_5_years": 162837,
-                "peak_annual": 45000,
-                "peak_monthly": 5200
+                "total_last_5_years": 61062,
+                "peak_annual": 24000,
+                "peak_monthly": 2000
             },
             {
-                "item": "Structural Steel",
+                "item": "Structural Steel Supply, Fabrication, Painting Erection",
                 "unit": "MT",
-                "total_last_5_years": 3900,
-                "peak_annual": 1412,
-                "peak_monthly": 505
+                "total_last_5_years": 4033,
+                "peak_annual": 1800,
+                "peak_monthly": 150
             },
             {
-                "item": "UG/AG Piping",
-                "unit": "Inch Dia",
-                "total_last_5_years": 225000,
-                "peak_annual": 96000,
-                "peak_monthly": 18140
+                "item": "Static Equipment Erection",
+                "unit": "MT",
+                "total_last_5_years": 2001,
+                "peak_annual": 2001,
+                "peak_monthly": 350
+            },
+            {
+                "item": "Rotary Equipment Erection",
+                "unit": "MT",
+                "total_last_5_years": 115,
+                "peak_annual": 115,
+                "peak_monthly": 25
+            },
+            {
+                "item": "Package Equipment & Compressor",
+                "unit": "MT",
+                "total_last_5_years": 106,
+                "peak_annual": 106,
+                "peak_monthly": 106
+            },
+            {
+                "item": "Steam Methane Reformer Erect.",
+                "unit": "MT",
+                "total_last_5_years": 1436,
+                "peak_annual": 1436,
+                "peak_monthly": 150
+            },
+            {
+                "item": "Steam Boilers & APH",
+                "unit": "MT",
+                "total_last_5_years": 254.4,
+                "peak_annual": 254.4,
+                "peak_monthly": 45
+            },
+            {
+                "item": "Pressure Parts & Catalyst Tubes",
+                "unit": "ID",
+                "total_last_5_years": 1275,
+                "peak_annual": 1275,
+                "peak_monthly": 600
+            },
+            {
+                "item": "Above & Below Ground Piping Fabrication",
+                "unit": "ID",
+                "total_last_5_years": 232724,
+                "peak_annual": 90100,
+                "peak_monthly": 6000
+            },
+            {
+                "item": "AG & UG Piping Erection",
+                "unit": "IM",
+                "total_last_5_years": 235764,
+                "peak_annual": 95132,
+                "peak_monthly": 6350
+            },
+            {
+                "item": "Catalyst Loading",
+                "unit": "MT",
+                "total_last_5_years": 900,
+                "peak_annual": 900,
+                "peak_monthly": 450
             }
         ]
     },
@@ -84,6 +168,8 @@
         "Concrete Lining (1000 cum/month)",
         "Hot Mix Plants (120 TPH x 2)",
         "RCC Box Culverts Construction",
-        "Piling Works (RCC Bored Cast In-situ)"
+        "Piling Works (RCC Bored Cast In-situ)",
+        "Automated Construction Equipment (JCB, SANY, BEML, VOLVO)",
+        "Heavy Lifting Cranes (85T Crawler, Hydra)"
     ]
 }

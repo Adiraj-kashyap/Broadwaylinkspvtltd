@@ -5,7 +5,8 @@
         "headquarters": "Begusarai, Bihar, India",
         "certifications": [
             "ISO 9001:2015",
-            "ISO 45001:2018"
+            "ISO 45001:2018",
+            "ISO 14001:2015"
         ],
         "founders": [
             "Ajay Kumar Singh"
@@ -94,12 +95,13 @@
         }
     ],
     "key_stats": {
-        "current_order_book_crores": 1143.70,
+        "current_order_book_crores": 1233.70,
         "completed_projects_value_crores": 2293.00,
-        "roads_constructed_km": "500+",
+        "roads_constructed_km": "540+",
         "structures_built": "500+ Box Culverts",
         "piping_installed_meter": "315,000 IM",
-        "structural_steel_mt": "12,500 MT"
+        "structural_steel_mt": "12,500 MT",
+        "fleet_size_plus": "254"
     },
     "policies": {
         "subcontracting": "No Subcontracting Proposed (100% Self-Reliant Execution)"
@@ -109,8 +111,7 @@
             "IOCL",
             "BPCL",
             "HPCL",
-            "HIND",
-            "N"
+            "HIND"
         ],
         "cement": [
             "Prism",

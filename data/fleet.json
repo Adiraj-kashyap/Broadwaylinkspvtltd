@@ -1,2612 +1,1526 @@
 [
     {
-        "equipment": "Batching Plant",
-        "brand": "KYB Conmat",
-        "model": "CRP 300 IL4",
-        "capacity": "30 CUM",
-        "chassisNo": "FBPB190052",
-        "year": "2019",
-        "location": "Gopalganj",
+        "equipment": "Batch Mix Hot Mix Plant (160 TPH)",
+        "brand": "Apollo",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "KYB Conmat",
-        "model": "CRP 450 IL4",
-        "capacity": "48 CUM",
-        "chassisNo": "FBPC250075",
-        "year": "2025",
-        "location": "Gopalganj",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "Maxmech",
-        "model": "CP 18",
-        "capacity": "18 CUM",
-        "location": "Gopalganj",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "KYB Conmat",
-        "chassisNo": "FBPB180030",
-        "year": "2027",
-        "location": "Nokha(Sasaram)",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "KYB Conmat",
-        "model": "IL3",
-        "chassisNo": "FUPB180042",
-        "year": "2017",
-        "location": "IOCL B/P(Begusarai)",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "Schwig stetter",
-        "model": "CP 18",
-        "capacity": "18 CUM",
-        "chassisNo": "160430077311",
-        "year": "06.02.2016",
-        "location": "BIADA",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Batching Plant",
-        "brand": "KYB Conmat",
-        "model": "IL3",
-        "location": "NOKHA",
+        "equipment": "Drum Mix Hot Mix Plant (120/60/45 TPH)",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200",
-        "capacity": "20 CUM",
-        "chassisNo": "FEEA180007",
-        "year": "Oct. 2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200",
-        "capacity": "20 CUM",
-        "chassisNo": "FEEA180023",
-        "year": "Oct. 2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200",
-        "capacity": "20 CUM",
-        "chassisNo": "FEEA250005",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200",
-        "capacity": "20 CUM",
-        "chassisNo": "FEEA250004",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Bed Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200H",
-        "capacity": "40 CUM",
-        "chassisNo": "FECB250003",
-        "year": "2025",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Bed Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200H",
-        "capacity": "40 CUM",
-        "chassisNo": "FECB250004",
-        "year": "2025",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Bed Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200H",
-        "capacity": "40 CUM",
-        "chassisNo": "FECB180001",
-        "year": "2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Bed Paver",
-        "brand": "KYB Conmat",
-        "model": "CE 200H",
-        "capacity": "40 CUM",
-        "chassisNo": "FECB180003",
-        "year": "2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "location": "NOKHA",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Slope Paver",
-        "brand": "KYB Conmat",
-        "location": "NOKHA",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Bed Paver",
-        "brand": "KYB Conmat",
-        "location": "NOKHA",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Discharge conveyor",
-        "brand": "KYB Conmat",
-        "model": "60H",
-        "capacity": "50 CUM",
-        "chassisNo": "FSDD250003",
-        "year": "2025",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Discharge conveyor",
-        "brand": "KYB Conmat",
-        "model": "60H",
-        "capacity": "50 CUM",
-        "chassisNo": "FSDD250004",
-        "year": "2025",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Discharge conveyor",
-        "brand": "KYB Conmat",
-        "model": "60H",
-        "capacity": "50 CUM",
-        "chassisNo": "FSDC180001",
-        "year": "2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Discharge conveyor",
-        "brand": "KYB Conmat",
-        "model": "60H",
-        "capacity": "50 CUM",
-        "chassisNo": "FSDC180002",
-        "year": "2017",
-        "location": "Gopalganj",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Discharge conveyor",
-        "brand": "KYB Conmat",
-        "location": "NOKHA",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DIESEL BOWSER",
-        "chassisNo": "BR09H 3203",
-        "location": "IOCL",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DIESEL BOWSER",
-        "chassisNo": "BR09H 3205",
-        "location": "SURSAND",
+        "equipment": "Hydraulic Excavator JS30/80/205/220",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DIESEL BOWSER",
-        "chassisNo": "BR09F 5085",
-        "location": "SONBARSA",
-        "status": "Active"
-    },
-    {
-        "equipment": "DIESEL BOWSER",
-        "chassisNo": "BR9B 8985",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "DIESEL BOWSER",
-        "chassisNo": "BR9GA 1474",
-        "location": "Sunny Singh Petrol pump",
-        "status": "Active"
-    },
-    {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "432ZX",
-        "chassisNo": "PUN432Z0KH2187529",
-        "engineSerial": "84382535",
-        "year": "2017",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "432ZXC3",
-        "capacity": "2.1 Cum",
-        "chassisNo": "PUN432UDTL2946759",
-        "engineSerial": "84521398",
-        "engineMake": "CUMMINS",
-        "engineModel": "B 5.9 150C 31",
-        "enginePower": "150 HP/2200 RPM",
-        "year": "2020E",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "433Z",
-        "capacity": "2.1 Cum",
-        "chassisNo": "PUN4ASBVAM4306776",
-        "engineSerial": "H00307823",
-        "engineMake": "JCB",
-        "enginePower": "93KW/2200 RPM",
-        "year": "2021G",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "2DX",
-        "capacity": "1.1",
-        "chassisNo": "HAR2DXLSJO2475648",
-        "engineSerial": "T4.1040.1620155",
-        "engineMake": "KIRLOSKAR",
-        "engineModel": "4R1040",
-        "year": "OCT.2016",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "2DX",
-        "capacity": "1.1",
-        "engineMake": "KIRLOSKAR",
-        "engineModel": "4R1040",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "1201378",
-        "location": "BIADA",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "PUN432Z0CH2187405",
-        "engineSerial": "84367599",
-        "year": "2017",
-        "location": "SEIKHPURA",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "PUNJS22CHG2456677",
-        "engineSerial": "H00116715",
-        "year": "2016",
-        "location": "SEIKHPURA",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "91506994",
-        "engineSerial": "62773681",
-        "year": "2009",
-        "location": "SITAMARHI",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "PUN432Z0HG2187151",
-        "engineSerial": "84301959",
-        "year": "2016",
-        "location": "SITAMARHI",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "PUN432Z0HG2187151",
-        "engineSerial": "84301959",
-        "location": "SITAMARHI",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "430",
-        "chassisNo": "1201378",
-        "year": "2006",
-        "location": "BIADA",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "chassisNo": "1201695",
-        "engineSerial": "1385389",
-        "year": "2007",
-        "location": "IOCL B/P(Begusarai)",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
+        "equipment": "Wheeled Loader 430 & 432",
         "brand": "JCB",
-        "model": "JCB 432ZX",
-        "location": "NOKHA",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "Wheel Loader",
-        "brand": "JCB",
-        "model": "JCB 432ZX",
-        "chassisNo": "PUN432Z0TB150393",
-        "engineSerial": "62974552",
-        "year": "1905",
-        "location": "JCB agency for repairing",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER-1",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXXTE01495534",
-        "engineSerial": "H00110687",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2016",
-        "location": "Gopalganj",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER-2",
-        "brand": "JCB",
-        "model": "3DX-BSIV",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXS4J03386650",
-        "engineSerial": "H00419122",
-        "engineMake": "JCB",
-        "enginePower": "56KW/2200 RPM",
-        "location": "Gopalganj",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER-3",
-        "brand": "JCB",
-        "model": "3DX-BSIV",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXSSL02977958",
-        "engineSerial": "H00279224",
-        "engineMake": "JCB",
-        "enginePower": "56KW/2200 RPM",
-        "year": "2020",
-        "location": "Gopalganj",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "chassisNo": "2877176",
-        "engineSerial": "H00254347",
-        "year": "2020",
-        "location": "BIADA",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXXTK02579448",
-        "engineSerial": "H00156846",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2017",
-        "location": "SITAMARHI",
+        "equipment": "Motor Grader",
+        "brand": "L&T Komatsu",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXXTK02578784",
-        "engineSerial": "H00153756",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2017",
-        "location": "SITAMARHI",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "1379740",
-        "engineSerial": "4H.2263/0927673",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2009",
-        "location": "SITAMARHI",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "1372149",
-        "engineSerial": "224H2255/0930070",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2009",
-        "location": "SITAMARHI",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "2877176",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "year": "2019",
-        "location": "BIADA",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "location": "NOKHA",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "location": "NOKHA",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER",
-        "brand": "JCB",
-        "model": "3DX",
-        "capacity": "0.3 cum",
-        "chassisNo": "BR11GB 2471",
-        "engineMake": "JCB",
-        "enginePower": "55KW/2200 RPM",
-        "location": "IOCL",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB BACKHOE LOADER with Breaker",
-        "brand": "JCB",
-        "model": "3DX-BSIV",
-        "capacity": "0.3 cum",
-        "chassisNo": "HAR3DXX4P03054360",
-        "engineSerial": "H00322010",
-        "engineMake": "JCB",
-        "enginePower": "56KW/2200 RPM",
-        "year": "2021",
-        "location": "JCB agency for repairing",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "BOBCAT",
-        "brand": "JCB",
-        "chassisNo": "BR09GB 9481",
-        "location": "IOCL",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "BOBCAT",
-        "brand": "JCB",
-        "location": "IOCL",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB LOADALL",
-        "brand": "JCB",
-        "chassisNo": "1918129",
-        "engineSerial": "H00214703",
-        "year": "2019",
-        "location": "BIADA",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB LOADALL",
-        "brand": "JCB",
-        "chassisNo": "HAR5DB5MJ01917929",
-        "engineSerial": "H00181730",
-        "year": "2018",
-        "location": "BIADA",
+        "equipment": "Soil Compactor",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB LOADALL(DEMO)",
-        "brand": "JCB",
-        "chassisNo": "1201378",
-        "year": "2023",
-        "location": "BIADA",
+        "equipment": "Dozer D53C",
+        "brand": "Caterpillar",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB LOADALL",
-        "brand": "JCB",
-        "chassisNo": "BR11GC 3241",
-        "location": "IOCL",
+        "equipment": "Dozer D53C",
+        "brand": "Caterpillar",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "JCB LOADALL",
-        "brand": "JCB",
-        "chassisNo": "HAR5DB5MJ01917946",
-        "engineSerial": "H00184703",
-        "year": "2018",
-        "location": "JCB agency for repairing",
-        "status": "Active"
-    },
-    {
-        "equipment": "CARWAL CRANE(85 MT)",
-        "brand": "SANY",
-        "model": "SCI850A",
-        "chassisNo": "CC0085CB5395",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRUCK(CNG)",
-        "brand": "TATA",
-        "chassisNo": "BR09G C1691",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRUCK(DIESEL)",
-        "brand": "TATA",
-        "model": "TATA 3118",
-        "chassisNo": "BR27GA 1257/MAT466404B2c0261",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 215",
-        "chassisNo": "PUNJD21ACR3480309",
-        "engineSerial": "84577066",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 215",
-        "chassisNo": "PUNJD21ACR3400426",
-        "engineSerial": "42C84563381",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 205",
-        "chassisNo": "PUNJD20BCH2239680",
-        "engineSerial": "Not visible",
-        "year": "2017",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 215",
-        "chassisNo": "PUNJD21AHR3480310",
-        "engineSerial": "42L84576918",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 215",
-        "chassisNo": "PUNJD21ACR3480309",
-        "engineSerial": "42L 84577066",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 205",
-        "chassisNo": "PUNJD20BK02238255",
-        "engineSerial": "42L 84286907",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 215",
-        "chassisNo": "PUNJD21BTK2778641",
-        "engineSerial": "84862676",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 81",
-        "chassisNo": "PUNJS81BAL2918044",
-        "engineSerial": "4H.2188/2020187",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 220",
-        "location": "SEIKHPURA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 81",
-        "engineSerial": "4H.2188/1720180",
-        "year": "2017",
-        "location": "NOKHA(Dought)",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 205",
-        "chassisNo": "PUNJD20BKH2240227",
-        "engineSerial": "8440653",
-        "year": "2017",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 205",
-        "chassisNo": "84273320",
-        "year": "2016",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 81",
-        "chassisNo": "2706875",
-        "engineSerial": "4H.2188/1820072",
-        "year": "2018",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 220",
-        "chassisNo": "H00108702",
-        "year": "2016",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 215",
-        "chassisNo": "84870763",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 215",
-        "chassisNo": "84862676",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "L&T  Komatsu",
-        "model": "PC 130",
-        "chassisNo": "823",
-        "engineSerial": "1344524",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 215",
-        "chassisNo": "PUNJD21BKJ2778396",
-        "engineSerial": "84828009",
-        "year": "2018",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 205",
-        "chassisNo": "PUNJD20BCH2240210",
-        "engineSerial": "84396420",
-        "year": "2017",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "L&T  Komatsu",
-        "model": "PC 130",
-        "chassisNo": "NL50822",
-        "engineSerial": "KMTPC12C94L50822",
-        "year": "2000",
-        "location": "JAIMAGLA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "L&T  Komatsu",
-        "model": "PC 130",
-        "chassisNo": "L 162",
-        "location": "JAIMAGLA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "L&T  Komatsu",
-        "model": "PC 130",
-        "chassisNo": "T 160",
-        "engineSerial": "133097",
-        "location": "JAIMANGLA",
-        "status": "Active",
-        "remarks": "E"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "model": "220LC",
-        "chassisNo": "PUNJ522CTH2544165",
-        "engineSerial": "H00140024",
-        "year": "2017",
-        "location": "JAIMANGLA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 80",
-        "chassisNo": "PUN0JS80U91406357",
-        "engineSerial": "900007",
-        "year": "2009",
-        "location": "JAIMANGLA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 81",
-        "chassisNo": "2578088",
-        "year": "2017",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 215",
-        "chassisNo": "2916266",
-        "year": "1905",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 81",
-        "chassisNo": "PUNJS81BT02426732",
-        "engineSerial": "4H.2188/1520221",
-        "location": "JMS",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JS 215",
-        "chassisNo": "PUNJD21BCJ2778443",
-        "engineSerial": "84834311",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 220",
-        "chassisNo": "PUNJS220PH2544006",
-        "engineSerial": "H00133288",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "EXCAVATOR",
-        "brand": "JCB",
-        "model": "JCB 30 Plus",
-        "chassisNo": "RAJJCB30J02845283",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "BABBY ROLLER",
-        "chassisNo": "2230390",
-        "engineSerial": "SJ327A91474",
-        "year": "1905",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "CONCRETE PUMP",
-        "brand": "Putzmeister",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "CONCRETE PUMP",
-        "brand": "Putzmeister",
-        "model": "1404-D",
-        "chassisNo": "2108250390",
-        "year": "1905",
-        "location": "Jaimangla workshop(Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(IR)",
-        "brand": "IR",
-        "chassisNo": "2002110005",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(IR)",
-        "brand": "IR",
-        "chassisNo": "2002100614",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(L&T)",
-        "brand": "L&T",
-        "chassisNo": "P0098",
-        "engineSerial": "06.2509.0900001",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(JCB)",
-        "brand": "JCB",
-        "chassisNo": "PUNJC116PJ2677997",
-        "engineSerial": "H00190575",
-        "year": "2018",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(JCB)",
-        "brand": "JCB",
-        "chassisNo": "PUNJC116TH2677706",
-        "engineSerial": "H00153553",
-        "year": "2017",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR",
-        "chassisNo": "BR11GB 2667",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "SOIL COMPACTOR(Padded foot compactor)",
-        "model": "JCB116DD",
-        "chassisNo": "PUNJC116EH2677704",
-        "engineSerial": "H00154070",
-        "year": "2017",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "DOZER",
+        "equipment": "Dozer BD65",
         "brand": "BEML",
-        "model": "BD65-1",
-        "chassisNo": "10964",
-        "engineSerial": "9 31 119 0029",
-        "engineMake": "BEML",
-        "engineModel": "B6D125-1",
-        "year": "2021",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DOZER",
-        "brand": "KOMATSU",
-        "model": "D 41P",
-        "chassisNo": "10304",
-        "engineMake": "KOMATSU",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DOZZER",
+        "equipment": "Dozer BD65",
         "brand": "BEML",
-        "model": "BD65-1",
-        "chassisNo": "B10183",
-        "engineSerial": "9 30 113 0830",
-        "engineMake": "BEML",
-        "engineModel": "B6D125-1",
-        "year": "2017",
-        "location": "SITAMARHI",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "CAT",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "VOLVO",
-        "brand": "VOLVO",
-        "model": "PT220",
-        "chassisNo": "UGEPT220V00050367",
-        "engineSerial": "12039932",
-        "year": "2017",
-        "location": "Jaimangla workshop",
-        "status": "Active"
-    },
-    {
-        "equipment": "TENDEM ROLLER",
+        "equipment": "Backhoe Loader 3DX",
         "brand": "JCB",
-        "model": "VTM860",
-        "chassisNo": "PUNVT860CK1798951",
-        "engineSerial": "H0022730",
-        "location": "SITAMARHI",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TENDEM ROLLER",
-        "location": "Rosra",
-        "status": "Active"
-    },
-    {
-        "equipment": "TENDEM ROLLER",
-        "location": "BENIPUR",
-        "status": "Active"
-    },
-    {
-        "equipment": "PAVER",
-        "brand": "APPLO",
-        "chassisNo": "812868",
-        "year": "2002",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "PAVER",
-        "location": "BENIPUR",
-        "status": "Active"
-    },
-    {
-        "equipment": "Trailer",
-        "brand": "Ashok Leyland",
-        "chassisNo": "BR09GA 7724",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Trailer",
-        "brand": "Tata",
-        "chassisNo": "R09G/8552",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Trailer",
-        "brand": "Ashok Leyland",
-        "chassisNo": "NL0/N9349",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Trailer",
-        "brand": "Ashok Leyland",
-        "chassisNo": "BR52 8385",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Trailer",
-        "brand": "Ashok Leyland",
-        "chassisNo": "BR27GA 1560",
-        "status": "Active"
-    },
-    {
-        "equipment": "KOMATSU GRADER",
-        "brand": "KOMATSU",
-        "model": "GD511A-1",
-        "chassisNo": "KMTGD005P01012235/12235",
-        "engineSerial": "171341",
-        "engineMake": "KOMATSU",
-        "engineModel": "S6D95L-1",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "LIUGONG GRADER",
-        "brand": "LIUGONG",
-        "model": "CLG414",
-        "chassisNo": "LGI414ZZKHN005803",
-        "engineMake": "LIUGONG",
-        "enginePower": "112 KW",
-        "year": "Nov. 2017",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "SDLG GRADER",
-        "chassisNo": "WP46NG150E501",
-        "engineSerial": "VLGG914HEN6640018",
-        "year": "2022",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "LIUGONG GRADER",
-        "chassisNo": "LGI00414AHG0057503",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "KAMATSU 1",
-        "chassisNo": "11296 (GD511A)",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "KAMATSU 2",
-        "chassisNo": "11267 (GD511A)",
-        "engineSerial": "62309611",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "LIUGONG GRADER",
-        "chassisNo": "LG100414AHG005750",
-        "location": "Jaimangla workshop",
-        "status": "Active"
-    },
-    {
-        "equipment": "Grader",
-        "chassisNo": "BR09GA 3398",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "SLM(Ajax fiori)",
-        "chassisNo": "AF1ARG40AHL008972",
-        "engineSerial": "4H.3306/2020446",
-        "year": "2020",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOOM PLACER",
-        "brand": "Ashok Leland",
-        "model": "AALN0350",
-        "chassisNo": "WM1DTCHD5KRJA6805",
-        "engineSerial": "JKHZ109501",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYDRA ACE 14 MT",
-        "brand": "ACE",
-        "chassisNo": "ACE1811377",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYDRA ACE 14 MT",
-        "brand": "ACE",
-        "chassisNo": "2002100614",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Escort Hydra Crane(17 MT)",
-        "brand": "Escort",
-        "chassisNo": "ECE02169HH0080217(BR01GA 9436)",
-        "engineSerial": "E4130DHJ165591E",
-        "year": "2017",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Escort Hydra Crane",
-        "brand": "Escort",
-        "chassisNo": "ECE01195AJ0249411(BR09GA 5066)",
-        "location": "Jaimata Di",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane",
-        "brand": "Indofarm",
-        "chassisNo": "HPC012AVNJC000056(NL01A B9373)",
-        "engineSerial": "CE328600145W",
-        "year": "2018",
-        "location": "Jaimata Di",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane",
-        "brand": "Indofarm",
-        "chassisNo": "HPC012AVNJC000055",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane(23 T) Farana",
-        "brand": "Escort",
-        "chassisNo": "BR09GA 8413(8210164901)",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane(14 T)",
-        "brand": "Escort",
-        "chassisNo": "BR09GA 2569",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane(14 T)",
-        "brand": "Escort",
-        "chassisNo": "BR09GA 6187",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "Hydra Crane(14 T)",
-        "brand": "ACE",
-        "chassisNo": "NL01D 3021",
-        "location": "Jaimangla",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR28AF-6460",
-        "model": "HERO",
-        "chassisNo": "HFLX",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR28AF-6073",
-        "model": "HONDA",
-        "chassisNo": "SHINE",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR24C 2866",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09A B5603",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR24W 3398",
-        "location": "Nokha",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR24W 3397",
-        "location": "Nokha",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR24V 6408",
-        "location": "Nokha",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AL 9044",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AL 9045",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09S 7668",
-        "location": "Benipur",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09Q 7274",
-        "location": "Rosra",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AL 5610",
-        "location": "SONBARSA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AL 5611",
-        "location": "SONBARSA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR07L 7186",
-        "location": "SONBARSA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09T 3478",
-        "location": "SONBARSA",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AK 5069",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AD 8705",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AD 8699",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AD 8544",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR09AL 5613",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "MOTOR CYCLE",
-        "brand": "BR9D 9312",
-        "location": "Jaimangla workshop",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 63 KVA",
+        "equipment": "Backhoe Loader 3DX",
         "brand": "JCB",
-        "chassisNo": "2322153",
-        "engineSerial": "H00278761",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 63 KVA",
+        "equipment": "Backhoe Loader 3DX",
         "brand": "JCB",
-        "chassisNo": "2322152",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 30 KVA",
-        "brand": "JAKSON",
-        "model": "JSPF 30",
-        "capacity": "30 KVA",
-        "chassisNo": "CJES 14050606",
-        "engineMake": "CUMMINS",
-        "year": "08.05.2014",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 30 KVA",
-        "brand": "JAKSON",
-        "model": "CJ 30D5 P",
-        "capacity": "30 KVA",
-        "chassisNo": "CJGS 17040276",
-        "engineSerial": "1704A06772",
-        "engineMake": "CUMMINS",
-        "enginePower": "24 KW/1500 RPM",
-        "year": "2017",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 30 KVA",
-        "brand": "JAKSON",
-        "chassisNo": "1704A07173",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 30 KVA",
-        "brand": "JAKSON",
-        "model": "CJ 30D5 P",
-        "capacity": "30 KVA",
-        "chassisNo": "CJGS 17040275",
-        "engineSerial": "1704A17173",
-        "engineMake": "CUMMINS",
-        "enginePower": "24 KW/1500 RPM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 30 KVA",
-        "brand": "JAKSON",
-        "model": "CJ 30D5 P",
-        "capacity": "30 KVA",
-        "chassisNo": "CJGS17102762",
-        "engineSerial": "1708A16730",
-        "engineMake": "CUMMINS",
-        "enginePower": "24 KW/1500 RPM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 100 KVA",
-        "brand": "JAKSON",
-        "chassisNo": "A-0-0415",
-        "engineSerial": "25266709",
-        "year": "5.10.2000",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 125 KVA",
-        "brand": "JAKSON",
-        "model": "JSPF 125C",
-        "capacity": "125KVA",
-        "chassisNo": "CJES 13092918",
-        "engineSerial": "T84116084",
-        "engineMake": "CUMMINS",
-        "engineModel": "6BTAA5.9-G13",
-        "year": "09.09.2013",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 125 KVA",
-        "brand": "JAKSON",
-        "model": "JSPF-125B",
-        "capacity": "125KVA",
-        "chassisNo": "CJGS 17040207",
-        "engineSerial": "71C84373331",
-        "engineMake": "CUMMINS",
-        "engineModel": "6BTAA5.9-G13",
-        "year": "2017",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 7.5 KVA",
-        "brand": "JAKSON",
-        "model": "JSP-IV 7.5",
-        "capacity": "7.5 KVA",
-        "chassisNo": "CJG11241009754",
-        "engineMake": "CUMMINS",
-        "year": "30.12.2024",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 10 KVA(New)",
-        "brand": "JAKSON",
-        "model": "JSP-IV 10",
-        "capacity": "10 KVA",
-        "chassisNo": "CJG11241010089",
-        "engineSerial": "2409P42611",
-        "engineMake": "CUMMINS",
-        "enginePower": "10 KVA",
-        "year": "29.01.2025",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG 10 KVA",
-        "brand": "JAKSON",
-        "model": "CI 10D5P",
-        "capacity": "10 KVA",
-        "chassisNo": "JL-241-4010470A002",
-        "engineMake": "CUMMINS",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG(180 KVA)",
-        "chassisNo": "2322385",
-        "engineSerial": "SDMZH13651",
-        "year": "2021",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG(15 KVA)",
-        "chassisNo": "UJ 49206",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "DG(63 KVA)",
+        "equipment": "Backhoe Loader 3DX",
         "brand": "JCB",
-        "chassisNo": "2320769",
-        "engineSerial": "H00093868",
-        "year": "20.06.2014",
-        "location": "IOCL B/P(Begusarai)",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 125 KVA",
-        "location": "Rosra",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 6 KVA",
-        "location": "Rosra",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 125 KVA",
-        "location": "Benipur",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 7 KVA",
-        "location": "Benipur",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 85 KVA",
-        "location": "Sursand",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 6 KVA",
-        "location": "Sursand",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 7.5 KVA",
-        "location": "Sursand",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 15 KVA",
-        "location": "Sonarsa",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 160 KVA",
-        "location": "Biada",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 60 KVA",
-        "location": "Biada",
+        "equipment": "Backhoe Loader 3DX",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 125 KVA",
-        "location": "Kiya Show room",
+        "equipment": "Tandem / PTR Roller",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 30 KVA",
-        "location": "NOKHA",
+        "equipment": "Tandem / PTR Roller",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 35 KVA",
-        "brand": "JAKSON",
-        "model": "CJ35D5P",
-        "chassisNo": "CJGS17102981",
-        "engineSerial": "170921736",
-        "year": "2017",
-        "location": "Gopalganj",
+        "equipment": "Tandem / PTR Roller",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 125 KVA",
-        "location": "NOKHA",
+        "equipment": "Bobcat",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "DG 63 KVA",
-        "location": "IOCL",
+        "equipment": "Bobcat",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD9RPMA3597/BR09GC 3254",
-        "engineSerial": "RNPZ108977",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Loadall",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHDXRPMA3592/BR09GC 3214",
-        "engineSerial": "RNPZ109387",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Loadall",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD3RPLA8629/BR09GC 3252",
-        "engineSerial": "RLPZ113623",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Loadall",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHDXRPMA4094/BR09GC 3255",
-        "engineSerial": "RPZ109381",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "year": "2024",
-        "location": "Gopalganj",
+        "equipment": "Baby Roller",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "BR09GC 3253",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "location": "Roshra",
+        "equipment": "Baby Roller",
+        "brand": "JCB",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "model": "AAKN0082",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H1LHD3JPLD0169(BA52G/2606)",
-        "engineSerial": "JEPZ117791",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E4ED132",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR7G 2518",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR7G 2520",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 6714",
-        "year": "19.01.2022",
-        "location": "Benipur",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 2589",
-        "year": "2020",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "model": "AAPN 0567",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD8R PMA3591(BR09GC R3213)",
-        "engineSerial": "RNPZ108967",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6F25",
-        "enginePower": "180 HP/2500 RPM",
-        "year": "2024",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "BR09GA 1873",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR9E 9222",
-        "location": "SITAMARHI",
+        "equipment": "Concrete Batching Plant (45/30/25/18 Cum)",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "F7S0081LT2PBM18/WB41C 2654",
-        "location": "Jaimangla workshop",
+        "equipment": "Concrete Pump Static",
+        "brand": "Putmeister",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "MB1HTDCC99HWA6102/BR7G 2518",
-        "engineSerial": "F8503713",
-        "location": "Jaimangla workshop(Break down)",
+        "equipment": "Concrete Pump Static",
+        "brand": "Putmeister",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "MB1HTDCC79HWA6106/BR7G 2520",
-        "engineSerial": "F8503814",
-        "location": "Jaimangla workshop(Break down)",
+        "equipment": "Concrete Pump Static",
+        "brand": "Putmeister",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR9E 9224",
-        "engineSerial": "F8503714",
-        "location": "Jaimangla workshop",
+        "equipment": "Boom Placer 36M",
+        "brand": "Putmeister",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "KHA092992/BR9E 9223",
-        "engineSerial": "F8503714",
-        "location": "Jaimangla workshop",
+        "equipment": "WMM Mixing Plant 100 TPH",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR09GA 1869",
-        "location": "IOCL B/P(Begusarai)",
+        "equipment": "WMM Mixing Plant 100 TPH",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "MM90000253/BR09GA 2590",
-        "location": "IOCL B/P(Begusarai)",
+        "equipment": "WMM Mixing Plant 100 TPH",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "chassisNo": "BR09GA 2591",
-        "location": "IOCL B/P(Begusarai)",
+        "equipment": "Mechanical & Sensor Paver",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad",
-        "chassisNo": "MB1HFLFD0HPFX6563/BR09GA 1867",
-        "engineSerial": "HFPZ108625",
-        "location": "JMS Workshop",
+        "equipment": "Mechanical & Sensor Paver",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 3278",
-        "year": "16.08.2020",
-        "location": "Sursand",
+        "equipment": "Mechanical & Sensor Paver",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 4345",
-        "year": "04.02.2021",
-        "location": "Sitamarhi(12 wheel)",
+        "equipment": "Mechanical & Sensor Paver",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 4346",
-        "year": "04.02.2021",
-        "location": "Benipur(12 wheel)",
+        "equipment": "Mechanical & Sensor Paver",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "BR09GA 1871",
-        "location": "Biada",
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "R09GA 1873",
-        "location": "Sursad",
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "BR09GA 1874",
-        "location": "Sursad(Rock ody)",
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS IV",
-        "chassisNo": "BR09GA 1875",
-        "location": "Soarsa(Rock ody)",
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Slope Lining Paver",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Bed Lining Paver with Conveyor",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Bed Lining Paver with Conveyor",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Bed Lining Paver with Conveyor",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Bed Lining Paver with Conveyor",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Bed Lining Paver with Conveyor",
+        "brand": "KYB Conmat",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crawler Drill with Compressor",
+        "brand": "Atlas Copco",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crawler Drill with Compressor",
+        "brand": "Atlas Copco",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crawler Drill with Compressor",
+        "brand": "Atlas Copco",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crawler Drill with Compressor",
+        "brand": "Atlas Copco",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Concrete Mixer Machine",
+        "brand": "Macons",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Concrete Mixer Machine",
+        "brand": "Macons",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Concrete Mixer Machine",
+        "brand": "Macons",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Transit Mixer 6/7 Cum",
+        "brand": "Various",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Air Compressor",
+        "brand": "Ingersoll-Rand",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Air Compressor",
+        "brand": "Ingersoll-Rand",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Air Compressor",
+        "brand": "Ingersoll-Rand",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Piling Rig SR-155",
+        "brand": "Sany",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crawler Crane 85T",
+        "brand": "Sany",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hydraulic Mobile Crane F-15/17/23",
+        "brand": "Action",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crusher Plant 250 TPH",
+        "brand": "Metso",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Crusher Plant 250 TPH",
+        "brand": "Metso",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 25 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "Hyva 40 Ton",
+        "brand": "Ashok Leyland",
+        "model": "Standard",
+        "status": "Active"
+    },
+    {
+        "equipment": "HCV Truck",
         "brand": "Tata",
-        "chassisNo": "NL01D 4239",
-        "location": "JMS (Break down)",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
+        "equipment": "HCV Truck",
         "brand": "Tata",
-        "chassisNo": "NL01D 4240",
-        "location": "JMS (Break down)",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
+        "equipment": "HCV Truck",
         "brand": "Tata",
-        "chassisNo": "BR52 9903",
-        "location": "Biada",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "WB37A 9943",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad BS II",
-        "chassisNo": "AP28X 2297",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad BS IV",
-        "chassisNo": "52G 2207",
-        "location": "Benipur(12 wheel)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad BS IV",
-        "chassisNo": "52G 2280",
-        "location": "Benipur(12 wheel)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad BS IV",
-        "chassisNo": "BA52G 2607",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "KA35 9618",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "KA35 9617",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "WB37A 9881",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "WB37A 9882",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "WB33B 4752",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Lelad BS IV",
-        "chassisNo": "BR52 1140",
-        "location": "JMS (Accidntal Break down) Rock Body",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Tata BS II",
-        "chassisNo": "NL01D 5494",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "NL01G 0182",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "NL01D 5492",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS II",
-        "chassisNo": "WB41C 2778",
-        "location": "JMS (Break down)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 6715",
-        "year": "19.01.2022",
-        "location": "Soarsa(Police station)",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 6716",
-        "year": "19.01.2022",
-        "location": "Roshra",
-        "status": "Active"
-    },
-    {
-        "equipment": "HYVA",
-        "brand": "Ashok Leland BS VI",
-        "chassisNo": "BR09GB 6717",
-        "year": "19.01.2022",
-        "location": "Roshra",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR 09 GB  2517",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR 09 GB  2519",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR 09 GB 8239",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR 09 GB 0181",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "NL01D-2803",
-        "location": "JMS",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "NL01A-7145",
-        "location": "JMS",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "NL01K 4090",
-        "location": "JMS",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR09GB 4346",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "BR09J 7729",
-        "location": "Biada",
-        "status": "Active"
-    },
-    {
-        "equipment": "Water Tanker",
-        "chassisNo": "NL01A-7135",
-        "location": "Roshra",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR WATER TANKER(5000 lts)",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR WATER TANKER(5000 lts)",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR WATER TANKER(5000 lts)",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR WATER TANKER(5000 lts)",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR WATER TANKER(2000 lts)",
-        "status": "Active"
-    },
-    {
-        "equipment": "CONCRETE MIXER MACHINE",
-        "brand": "ELSA",
-        "model": "RM 800",
-        "chassisNo": "12030",
-        "location": "Jaimangla",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR",
-        "brand": "Shaktiman",
-        "model": "Shaktiman-35",
-        "chassisNo": "BR21G A1315",
-        "location": "Jaimangla",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR",
-        "brand": "Shaktiman",
-        "model": "Shaktiman-36",
-        "chassisNo": "BR01G 8166",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR33GD 3112",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRACTOR",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "model": "AASN 0108",
-        "chassisNo": "RY2TTKR5J22620(BR09GC 4714)",
-        "engineSerial": "TTR4H31.931",
-        "engineMake": "BOLERO CAMPER GOLD ZX 2WD PS",
-        "engineModel": "BOLERO CAMPER GOLD ZX 2WD PS",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "model": "AASN 0108",
-        "chassisNo": "NOKHA",
-        "engineSerial": "TTP4K22372",
-        "engineMake": "BOLERO CAMPER GOLD ZX 2WD PS",
-        "engineModel": "BOLERO CAMPER GOLD ZX 2WD PS",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "chassisNo": "BR09B 9285",
-        "location": "SITAMARHI",
-        "status": "Active"
-    },
-    {
-        "equipment": "AMBULANCE",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 9538",
-        "location": "Roshra",
-        "status": "Active"
-    },
-    {
-        "equipment": "MEDICAL AMBULANCE",
-        "brand": "TATA",
-        "chassisNo": "BR01PG 9811",
-        "location": "Roshra",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR011GB 4280",
-        "location": "Benipur",
-        "status": "Active"
-    },
-    {
-        "equipment": "ROAD AMBULANCE",
-        "brand": "ASHOK LELAND",
-        "chassisNo": "BR09GA 9106",
-        "location": "Benipur",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GB 5553",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 0526",
-        "location": "Sursand",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 8069",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 7294",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 4620",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09AQ 8204",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "SCORPIO",
-        "brand": "MAHINDRA",
-        "chassisNo": "JH05AJ 4444",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "WINGER",
-        "brand": "TATA",
-        "chassisNo": "BR09PA 8938",
-        "location": "IOCL",
-        "status": "Active"
-    },
-    {
-        "equipment": "VAN",
-        "brand": "MARUTI VAN",
-        "chassisNo": "BR09W 6699",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "SCORPIO",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR01PE 7682",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GC 2512",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "VERNA",
-        "brand": "HYUNDAI",
-        "chassisNo": "BR01BM 0029",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRAVELLER",
-        "brand": "FORCE",
-        "chassisNo": "BR09PA 8495",
-        "location": "BIADA",
-        "status": "Active"
-    },
-    {
-        "equipment": "PICKUP",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 3371",
-        "location": "Jaimata di",
-        "status": "Active"
-    },
-    {
-        "equipment": "PICKUP",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GA 4698",
-        "location": "Jaimata di",
-        "status": "Active"
-    },
-    {
-        "equipment": "PICKUP",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09GC 4713",
-        "location": "Jaimata di",
-        "status": "Active"
-    },
-    {
-        "equipment": "ULTO",
-        "brand": "MARUTI",
-        "chassisNo": "BR09U 9573",
-        "location": "Jaimangla",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO CAMPER",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR011GA 1478",
-        "location": "NOKHA",
-        "status": "Active"
-    },
-    {
-        "equipment": "BOLERO",
-        "brand": "MAHINDRA",
-        "chassisNo": "BR09PA 4323",
-        "location": "NOKHA",
-        "status": "Active",
-        "remarks": "B/D at JMS"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5039)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD5RPD1522",
-        "engineSerial": "RBPZ139328",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5038)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHDXRPBD1161",
-        "engineSerial": "RCPZ138820",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5042)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHDXRPCC8327",
-        "engineSerial": "RCPZ135795",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5041)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD8RPBD1157",
-        "engineSerial": "RBPZ139654",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5043)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD8RPBD1668",
-        "engineSerial": "RBPZ139332",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5257)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD7SPRD4173",
-        "engineSerial": "RBPZ142807",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5258)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD7SPRD8935",
-        "engineSerial": "R3PZ147251",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5260)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD0SPRD8937",
-        "engineSerial": "RSPZ147244",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5256)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD7SPRD8951",
-        "engineSerial": "RSPZ1461822",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "NEW TRANSIT MIXER(BR09GC 5259)",
-        "brand": "Ashok Leyland BSVI",
-        "model": "AAON 0279",
-        "capacity": "25 TON",
-        "chassisNo": "MB1H3LHD6SPRD1670",
-        "engineSerial": "RCPZ138814",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E6T20",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR28L- 3816)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GA 1876)",
-        "brand": "Ashok Leyland",
-        "year": "2015",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09F 0185)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GB 4880)",
+        "equipment": "HCV Truck",
         "brand": "Tata",
-        "location": "Gopalganj",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR52G 2611)",
-        "brand": "Ashok Leyland",
-        "model": "AAKN0082",
-        "capacity": "25 TON",
-        "chassisNo": "MB1HTLHD0JPGC1824",
-        "engineSerial": "JBPZ109517",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E4ED132",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR9F 0186)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(UP16CT 1910)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR 52 8719)",
-        "brand": "Ashok Leyland",
-        "model": "AAEN 0050",
-        "capacity": "25 TON",
-        "chassisNo": "MB1DT1JC89RBA2833",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "HA6DTI2N-MARKII",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09GB 4877)",
-        "brand": "Tata",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09GC 1872)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(UP16CT 1909)",
-        "brand": "Ashok Leyland",
-        "location": "Gopalganj",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR52 8724)",
-        "brand": "Ashok Leyland",
-        "model": "AAEN 0050",
-        "capacity": "25 TON",
-        "chassisNo": "MB1DTJJC79RA2709",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "HA6DTI2N-MARKII",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Gopalganj",
-        "status": "Active",
-        "remarks": "2 nos"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GA 7724)",
-        "brand": "Ashok Leyland",
-        "chassisNo": "MB1DTJJC5BRXE0138",
-        "location": "IOCL B/P(Begusarai)",
-        "status": "Active",
-        "remarks": "2 nos"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GA 7726)",
-        "brand": "Tata",
-        "chassisNo": "396523ASZ20263",
-        "location": "Jaimangla workshop",
-        "status": "Active",
-        "remarks": "2 nos"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GB 4881)",
-        "brand": "Tata",
-        "chassisNo": "396522ASZ201876",
-        "location": "Jaimangla workshop",
+        "equipment": "Water Tanker",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09G 2610)",
-        "brand": "Ashok Leyland",
-        "model": "AAKN0082",
-        "capacity": "25 TON",
-        "chassisNo": "MB1HTLHD7JPGE1822",
-        "engineSerial": "GHPZ145730",
-        "engineMake": "Ashok Leyland",
-        "engineModel": "H6E4ED132",
-        "enginePower": "180 HP/2500 RPMM",
-        "location": "Jaimangla workshop",
+        "equipment": "Bed Trailer 40'",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09GA 1870)",
-        "brand": "Ashok Leyland",
-        "chassisNo": "MB1HTGFD0HRES9879",
-        "location": "Jaimangla workshop",
+        "equipment": "Bed Trailer 40'",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09GA 1868)",
-        "brand": "Ashok Leyland",
-        "location": "IOCL B/P(Begusarai)",
+        "equipment": "Bed Trailer 40'",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR28L 3813)",
-        "location": "Biada",
+        "equipment": "Bed Trailer 40'",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     },
     {
-        "equipment": "TRANSIT MIXER(BR09GA 7726)",
-        "brand": "Ashok Leyland",
-        "chassisNo": "MB1HTLHD0KP JH1638",
-        "location": "JMS Work shop",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(BR09GA 7724)",
-        "brand": "Ashok Leyland",
-        "location": "JMS Work shop",
-        "status": "Active"
-    },
-    {
-        "equipment": "TRANSIT MIXER(UP16CT 1909)",
-        "brand": "Ashok Leyland",
-        "location": "JMS Work shop(Accidental)",
-        "status": "Active"
-    },
-    {
-        "equipment": "WALK BEHIND ROLLER",
-        "location": "IOCL",
+        "equipment": "Bed Trailer 40'",
+        "brand": "Various",
+        "model": "Standard",
         "status": "Active"
     }
 ]

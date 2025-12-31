@@ -1,0 +1,27 @@
+{
+    "Government": [
+        "National Highways Authority of India (NHAI)",
+        "Ministry of Road Transport & Highways (MORTH)",
+        "Road Construction Department (RCD), Bihar",
+        "Water Resources Department (WRD), Bihar",
+        "Indian Railways (IRCON)",
+        "Public Works Department (PWD)"
+    ],
+    "Oil & Gas / PSU": [
+        "Indian Oil Corporation Limited (IOCL)",
+        "ONGC",
+        "NTPC",
+        "Power Grid Corporation of India",
+        "HURL (Hindustan Urvarak & Rasayan Limited)"
+    ],
+    "Private & EPC Majors": [
+        "Technip Energies",
+        "McDermott (CB&I)",
+        "TechnipFMC",
+        "Linde",
+        "Punj Lloyd",
+        "Lanco",
+        "Prodair (Air Products)",
+        "Greenarch"
+    ]
+}

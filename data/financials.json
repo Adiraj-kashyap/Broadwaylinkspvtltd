@@ -2,97 +2,101 @@
     "turnover": [
         {
             "year": "2019-20",
-            "amount_inr": 1957325437.00
+            "amount_inr": 1957325400.00
         },
         {
             "year": "2020-21",
-            "amount_inr": 1625512324.00
+            "amount_inr": 1625512300.00
         },
         {
             "year": "2021-22",
-            "amount_inr": 1914980656.00
+            "amount_inr": 1945900000.00
         },
         {
             "year": "2022-23",
-            "amount_inr": 2195306336.00
+            "amount_inr": 2197600000.00
         },
         {
             "year": "2023-24",
-            "amount_inr": 2198196288.00
+            "amount_inr": 2214700000.00
+        },
+        {
+            "year": "2024-25",
+            "amount_inr": 3126090000.00
         }
     ],
-    "average_annual_turnover": 1978264208.00,
+    "average_annual_turnover": 2177854616.67,
     "financial_position": [
         {
             "year": "2023-24",
-            "total_assets": 2163390000,
-            "total_liabilities": 772260000,
-            "net_worth": 1391140000,
-            "current_assets": 1345470000,
-            "current_liabilities": 736090000,
-            "working_capital": 609380000,
-            "profit_before_tax": 266440000,
+            "total_assets": 2163396555,
+            "total_liabilities": 772259685,
+            "net_worth": 1391136870,
+            "current_assets": 1345469498,
+            "current_liabilities": 736089215,
+            "working_capital": 609380283,
+            "profit_before_tax": 266442130,
             "profit_after_tax": 200100000
         },
         {
             "year": "2022-23",
-            "total_assets": 1871860000,
-            "total_liabilities": 681060000,
-            "net_worth": 1190810000,
-            "current_assets": 1083340000,
-            "current_liabilities": 634020000,
-            "working_capital": 449320000,
-            "profit_before_tax": 296830000,
+            "total_assets": 1871862569,
+            "total_liabilities": 681055486,
+            "net_worth": 1190807083,
+            "current_assets": 1083338909,
+            "current_liabilities": 629654776,
+            "working_capital": 453684133,
+            "profit_before_tax": 297266107,
             "profit_after_tax": 223780000
         },
         {
             "year": "2021-22",
-            "total_assets": 1920270000,
-            "total_liabilities": 952720000,
-            "net_worth": 967550000,
-            "current_assets": 1183380000,
-            "current_liabilities": 854640000,
-            "working_capital": 328740000,
-            "profit_before_tax": 250230000,
+            "total_assets": 1920268204,
+            "total_liabilities": 952720030,
+            "net_worth": 967548174,
+            "current_assets": 1183379984,
+            "current_liabilities": 854636243,
+            "working_capital": 328743741,
+            "profit_before_tax": 250531179,
             "profit_after_tax": 186060000
         },
         {
             "year": "2020-21",
-            "total_assets": 1775060000,
-            "total_liabilities": 993570000,
-            "net_worth": 781490000,
-            "current_assets": 1109230000,
-            "current_liabilities": 883460000,
-            "working_capital": 225780000,
-            "profit_before_tax": 197200000,
+            "total_assets": 1775055361,
+            "total_liabilities": 993567466,
+            "net_worth": 781487895,
+            "current_assets": 1109233244,
+            "current_liabilities": 883456595,
+            "working_capital": 225776649,
+            "profit_before_tax": 197198245,
             "profit_after_tax": 146780000
         },
         {
             "year": "2019-20",
-            "total_assets": 1533890000,
-            "total_liabilities": 899180000,
-            "net_worth": 585970000,
-            "current_assets": 891360000,
-            "current_liabilities": 783390000,
-            "working_capital": 107980000,
-            "profit_before_tax": 259110000,
+            "total_assets": 1533886233,
+            "total_liabilities": 947919526,
+            "net_worth": 585966707,
+            "current_assets": 891362531,
+            "current_liabilities": 783385253,
+            "working_capital": 107977278,
+            "profit_before_tax": 259111495,
             "profit_after_tax": 191200000
         }
     ],
     "banking_facilities": [
         {
             "bank": "HDFC Bank Limited",
-            "facility": "Overdraft Facility Sanctioned Limit",
+            "facility": "Overdraft Facility (CC Limit)",
             "amount": 65000000.00
         },
         {
             "bank": "HDFC Bank Limited",
-            "facility": "Performance Bank Guarantee Facility",
+            "facility": "Bank Guarantee Facility",
             "amount": 490000000.00
         },
         {
             "bank": "ICICI Bank Limited",
-            "facility": "Overdraft Facility Sanctioned Limit",
+            "facility": "Overdraft Facility (CC Limit)",
             "amount": 30000000.00
         },
         {
@@ -101,9 +105,14 @@
             "amount": 230000000.00
         },
         {
-            "bank": "HDFC Bank Limited",
-            "facility": "New Credit Facility (Working Capital) on Work Award",
-            "amount": 610000000.00
+            "bank": "State Bank of India (SME Branch)",
+            "facility": "Overdraft Facility (CC Limit)",
+            "amount": 20000000.00
+        },
+        {
+            "bank": "State Bank of India (SME Branch)",
+            "facility": "Bank Guarantee Facility",
+            "amount": 230000000.00
         }
     ],
     "available_bid_capacity": {

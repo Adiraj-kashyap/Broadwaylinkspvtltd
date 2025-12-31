@@ -1,173 +1,252 @@
 {
-  "ongoing_projects": [
-    {
-      "id": "chem-1",
-      "project_name": "Lining work of Chausa Branch Canal",
-      "location": "Chausa, Buxar, Bihar",
-      "client": "EE, Ganga Pump Canal Division, WRD",
-      "contract_value_millions": 856.25,
-      "remaining_value_millions": 61.58,
-      "completion_date": "31.12.2025",
-      "status": "99% Completed",
-      "description": "Lining work from Km 0.00 to 12.924 & restoration of Kochas and Indore distributary."
-    },
-    {
-      "id": "road-1",
-      "project_name": "Long Term Output & Performance based Road Maintenance (Pkg 11)",
-      "location": "Rosera, Samastipur, Bihar",
-      "client": "EE, RCD, Rosera",
-      "contract_value_millions": 1011.06,
-      "remaining_value_millions": 347.01,
-      "completion_date": "21.02.2026",
-      "description": "OPRMC2 Package No. 11 maintenance work."
-    },
-    {
-      "id": "road-2",
-      "project_name": "Long Term Output & Performance based Road Maintenance (Pkg 9A)",
-      "location": "Benipur, Darbhanga, Bihar",
-      "client": "EE, RCD, Benipur",
-      "contract_value_millions": 1078.86,
-      "remaining_value_millions": 177.44,
-      "completion_date": "11.02.2026",
-      "description": "OPRMC2 Package No. 9A maintenance work."
-    },
-    {
-      "id": "road-3",
-      "project_name": "Indo-Nepal Border Road Project (Kanhauli to Sursand)",
-      "location": "Sitamarhi, Bihar",
-      "client": "EE, RCD, Sitamarhi",
-      "contract_value_millions": 2146.50,
-      "remaining_value_millions": 67.50,
-      "completion_date": "31.12.2025",
-      "status": "80% Completed",
-      "description": "Construction and upgradation of existing road (49.150 km)."
-    },
-    {
-      "id": "canal-1",
-      "project_name": "Restoration Work of Saran Main Canal",
-      "location": "Gopalganj, Bihar",
-      "client": "EE, SCD, WRD, Gopalganj",
-      "contract_value_millions": 3763.70,
-      "remaining_value_millions": 1481.70,
-      "completion_date": "14.06.2026",
-      "description": "Restoration and Lining from Km 0.00 to 17.00."
-    },
-    {
-      "id": "ind-1",
-      "project_name": "Construction of Roads & Drains, Barauni Refinery",
-      "location": "Barauni, Bihar",
-      "client": "Indian Oil Corporation Ltd",
-      "contract_value_millions": 190.10,
-      "remaining_value_millions": 64.00,
-      "completion_date": "31.03.2025",
-      "description": "Roads, drains, culverts, and cable trenches for capacity expansion project."
-    },
-    {
-      "id": "ind-2",
-      "project_name": "Civil & Structural Works for OHCU Project",
-      "location": "Barauni, Bihar",
-      "client": "Technip India Limited",
-      "contract_value_millions": 637.82,
-      "remaining_value_millions": 4.90,
-      "completion_date": "31.12.2025",
-      "description": "Civil, structural steel, and UG piping works."
-    },
-    {
-      "id": "ind-3",
-      "project_name": "Civil & UG Piping Works for DHDT Project",
-      "location": "Barauni, Bihar",
-      "client": "CB&I India Pvt Ltd (McDermott)",
-      "contract_value_millions": 418.16,
-      "remaining_value_millions": 46.70,
-      "completion_date": "30.09.2025",
-      "description": "Civil and underground piping works."
-    },
-    {
-      "id": "ind-4",
-      "project_name": "Mechanical Works for HGU+N2 Project",
-      "location": "Barauni, Bihar",
-      "client": "Prodair Air Product India Pvt. Ltd.",
-      "contract_value_millions": 724.66,
-      "remaining_value_millions": 55.70,
-      "completion_date": "31.08.2025",
-      "description": "Mechanical works for refinery expansion."
-    }
-  ],
-  "completed_projects": [
-    {
-      "id": "comp-1",
-      "project_name": "Restoration and Lining of Sone Western Link Canal",
-      "location": "Indrapuri, Rohtas, Bihar",
-      "client": "Sone Barrage Division, WRD",
-      "contract_value_inr": "2,300,847,543",
-      "completion_date": "Jan 2023",
-      "role": "Prime Contractor (97.2% Share)",
-      "description": "Earthwork, Canal Lining, Boulder Pitching, PQC, RCC Retaining Wall, Pump Room."
-    },
-    {
-      "id": "comp-2",
-      "project_name": "Civil Works including Building and U.G. Piping for HURL Project",
-      "location": "Barauni, Bihar",
-      "client": "Technip India Limited",
-      "contract_value_inr": "987,241,560",
-      "completion_date": "March 2022",
-      "role": "Approved Subcontractor",
-      "description": "Civil earthwork, buildings, architectural, finishing, and UG piping."
-    },
-    {
-      "id": "comp-3",
-      "project_name": "Piling, Civil & Structural Work for BS-IV Project",
-      "location": "Barauni Refinery, Bihar",
-      "client": "Indian Oil Corporation Ltd",
-      "contract_value_inr": "806,692,298",
-      "completion_date": "June 2020",
-      "role": "Contractor",
-      "description": "Piling and civil works for new process units (NHT, CCR, etc.)."
-    },
-    {
-      "id": "comp-4",
-      "project_name": "Widening of Muktapur-Warisnagar Road",
-      "location": "Samastipur, Bihar",
-      "client": "RCD, Samastipur",
-      "contract_value_inr": "350,664,347",
-      "completion_date": "June 2024",
-      "description": "Widening and strengthening of 23.30 km road."
-    },
-    {
-      "id": "comp-5",
-      "project_name": "Widening of Samastipur-Dalsinghsarai Road",
-      "location": "Samastipur, Bihar",
-      "client": "RCD, Rosera",
-      "contract_value_inr": "189,062,876",
-      "completion_date": "Dec 2020",
-      "description": "Road widening and strengthening work."
-    },
-    {
-      "id": "comp-6",
-      "project_name": "Piling Works for DHDT Unit",
-      "location": "Barauni Refinery",
-      "client": "CB&I India (McDermott)",
-      "contract_value_inr": "200,470,681",
-      "completion_date": "Jan 2023",
-      "description": "RCC Bored Cast In-situ Piling."
-    },
-    {
-      "id": "comp-ethics-1",
-      "project_name": "Piling, Civil & Structural Works for 100 KLPD Ethanol Project",
-      "location": "BIADA Industrial Area, Begusarai",
-      "client": "New Way Homes Private Limited",
-      "contract_value_inr": "385,666,000",
-      "completion_date": "Sept 2023",
-      "description": "Piling, civil building, structure, road and drainage works."
-    },
-    {
-      "id": "comp-7",
-      "project_name": "Piling Works for NHT-II + ISOM-II Unit",
-      "location": "Barauni Refinery",
-      "client": "CB&I India (McDermott)",
-      "contract_value_inr": "143,382,086",
-      "completion_date": "Jan 2023",
-      "description": "RCC Bored Cast In-situ Piling."
-    }
-  ]
+    "ongoing_projects": [
+        {
+            "id": "infra-ongoing-1",
+            "project_name": "Indo-Nepal Border Road Project (Kanhauli to Sursand)",
+            "client": "EE, RCD, Sitamarhi, Bihar",
+            "contract_value_millions": 2146.47,
+            "description": "Construction and upgradation of existing Road along Indo-Nepal Border (49.15 km).",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 163.13,
+            "status": "92.4% Completed",
+            "location": "Sitamarhi, Bihar"
+        },
+        {
+            "id": "infra-ongoing-2",
+            "project_name": "Widening & Strengthening of Various SH, MDR, OR",
+            "client": "EE, RCD, Rosera, Samastipur, Muzaffarpur",
+            "contract_value_millions": 556.7,
+            "description": "Widening and strengthening of various state highways and district roads.",
+            "completion_date": "Maintenance Phase",
+            "remaining_value_millions": 0.0,
+            "status": "100.0% Completed",
+            "location": "Samastipur/Muzaffarpur, Bihar"
+        },
+        {
+            "id": "infra-ongoing-3",
+            "project_name": "Long Term Output & Performance based Road Maintenance (Pkg 11A & 9A)",
+            "client": "EE, RCD, Rosera/Benipur, Bihar",
+            "contract_value_millions": 2206.44,
+            "description": "7-year long term maintenance contract for OPRMC2 Package 11A and 9A.",
+            "completion_date": "21.02.2026",
+            "remaining_value_millions": 540.58,
+            "status": "75.5% Completed",
+            "location": "Rosera/Benipur, Bihar"
+        },
+        {
+            "id": "infra-ongoing-4",
+            "project_name": "Restoration Work of Saran Main Canal",
+            "client": "EE, WRD, Saran Canal Division, Gopalganj",
+            "contract_value_millions": 3763.7,
+            "description": "Restoration and Lining from Km 0.00 to 17.00.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 1162.98,
+            "status": "69.1% Completed",
+            "image": "/images/projects/saran-canal.jpg",
+            "location": "Gopalganj, Bihar"
+        },
+        {
+            "id": "infra-ongoing-5",
+            "project_name": "Lining work of Chausa Branch Canal",
+            "client": "EE, Ganga Pump Canal Division, Chousa Buxar",
+            "contract_value_millions": 864.94,
+            "description": "Lining work from Km 0.00 to 12.924 & restoration of Kochas and Indore distributary.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 69.2,
+            "status": "92.0% Completed",
+            "location": "Buxar, Bihar"
+        },
+        {
+            "id": "og-ongoing-1",
+            "project_name": "Civil, Structural & UG Piping for OHCU Project",
+            "client": "Technip India Limited / IOCL Barauni",
+            "contract_value_millions": 672.17,
+            "description": "Barricading, Dismantling, Civil, UG & Structural Steel Works.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 1.34,
+            "status": "99.8% Completed",
+            "image": "/images/projects/fabrication-yard.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-ongoing-2",
+            "project_name": "Construction of Roads & Drains, Barauni Refinery",
+            "client": "IOCL, Barauni Refinery",
+            "contract_value_millions": 190.1,
+            "description": "Roads, drains, culverts, and cable trenches for capacity expansion.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 62.73,
+            "status": "67.0% Completed",
+            "image": "/images/projects/fabrication-yard.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-ongoing-3",
+            "project_name": "Civil & UG Works for DHDT Project",
+            "client": "CB&I India Private Limited (McDermott)",
+            "contract_value_millions": 418.16,
+            "description": "Civil and underground piping works for Diesel Hydrotreating Unit.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 25.09,
+            "status": "94.0% Completed",
+            "image": "/images/projects/fabrication-yard.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-ongoing-4",
+            "project_name": "Mechanical Works for HGU (H2+N2) Project",
+            "client": "Prodair Air Products India Pvt. Ltd.",
+            "contract_value_millions": 724.66,
+            "description": "Mechanical works for Hydrogen Generation Unit.",
+            "completion_date": "Post Commissioning",
+            "remaining_value_millions": 1.45,
+            "status": "99.8% Completed",
+            "image": "/images/projects/steam-boiler.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-ongoing-5",
+            "project_name": "Composite Works for New Biturox Plant",
+            "client": "IOCL, Barauni Refinery",
+            "contract_value_millions": 794.25,
+            "description": "Composite Works for Unit and Balance Offsite of New Biturox Plant.",
+            "completion_date": "In Progress",
+            "remaining_value_millions": 794.25,
+            "status": "0.0% Completed",
+            "image": "/images/projects/fabrication-yard.jpg",
+            "location": "Barauni Refinery, Bihar"
+        }
+    ],
+    "completed_projects": [
+        {
+            "id": "infra-comp-1",
+            "project_name": "Restoration and Lining of Sone Western Link Canal",
+            "client": "EE, Sone Barrage Division, Indrapuri",
+            "contract_value_millions": 3480.25,
+            "description": "Earthwork, Canal Lining, Boulder Pitching, PQC.",
+            "completion_date": "Jan 2025",
+            "location": "Indrapuri, Rohtas, Bihar"
+        },
+        {
+            "id": "infra-comp-2",
+            "project_name": "Widening/Strengthening of Roads & Drains (Rosera/Benipur)",
+            "client": "EE, RCD, Road Division (Various)",
+            "contract_value_millions": 1920.61,
+            "description": "Widening and strengthening of various roads and construction of RCC Drain & Box Culverts.",
+            "completion_date": "2019-2024",
+            "location": "Rosera/Benipur, Bihar"
+        },
+        {
+            "id": "infra-comp-3",
+            "project_name": "Lower Noon & Khemait Jheel Embankment Roads",
+            "client": "EE, Flood Control Division, Dalsinghsarai",
+            "contract_value_millions": 1012.4,
+            "description": "Construction of Black-Top Road on Embankments.",
+            "completion_date": "July 2019",
+            "location": "Dalsinghsarai, Bihar"
+        },
+        {
+            "id": "infra-comp-4",
+            "project_name": "Widening of NH-98 (Km 57-79)",
+            "client": "EE, NH Division, Medininagar, Jharkhand",
+            "contract_value_millions": 650.4,
+            "description": "Widening to 2 Lane with paved shoulders & improvement.",
+            "completion_date": "April 2019",
+            "location": "Palamu, Jharkhand"
+        },
+        {
+            "id": "infra-comp-5",
+            "project_name": "NHAI / RCD Major Roads (2003-2019)",
+            "client": "NHAI / RCD / IRCON",
+            "contract_value_millions": 4007.3,
+            "description": "Various National & State Highway projects.",
+            "completion_date": "2003-2019",
+            "location": "Bihar & Jharkhand"
+        },
+        {
+            "id": "infra-comp-6",
+            "project_name": "Lower Kiul Valley Scheme Renovation",
+            "client": "EE, Irrigation Division, Sikandra",
+            "contract_value_millions": 263.52,
+            "description": "Renovation of Left Canal System and Service Road.",
+            "completion_date": "2011",
+            "location": "Sikandra, Bihar"
+        },
+        {
+            "id": "og-comp-1",
+            "project_name": "100 KLPD Ethanol Project Civil Works",
+            "client": "NWHPL, New Delhi",
+            "contract_value_millions": 385.67,
+            "description": "Piling, Civil Building, Structure, Road and Drainage Works.",
+            "completion_date": "Sept 2023",
+            "location": "Begusarai, Bihar"
+        },
+        {
+            "id": "og-comp-2",
+            "project_name": "Piling & Civil Works for NHT-ISOM Unit",
+            "client": "CB&I India (McDermott)",
+            "contract_value_millions": 143.45,
+            "description": "Piling & Civil Works.",
+            "completion_date": "Aug 2023",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-comp-3",
+            "project_name": "Piling Works for OHCU Project",
+            "client": "Technip Energies India Limited",
+            "contract_value_millions": 98.86,
+            "description": "Piling Works Subcontract.",
+            "completion_date": "March 2023",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-comp-4",
+            "project_name": "Piling Works for DHDT Unit",
+            "client": "CB&I India (McDermott)",
+            "contract_value_millions": 200.47,
+            "description": "Subcontract for Piling Works.",
+            "completion_date": "Jan 2023",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-comp-5",
+            "project_name": "HURL Project Civil & UG Piping",
+            "client": "Technip",
+            "contract_value_millions": 987.24,
+            "description": "Civil Works Including Building and Under Ground Piping.",
+            "completion_date": "March 2022",
+            "image": "/images/projects/hurl-barauni.jpg",
+            "location": "Barauni, Bihar"
+        },
+        {
+            "id": "og-comp-6",
+            "project_name": "BS-IV Project New Process Units",
+            "client": "IOCL, Refineries Division",
+            "contract_value_millions": 806.89,
+            "description": "Piling, Civil & Structural and UG Piping Work.",
+            "completion_date": "June 2020",
+            "image": "/images/projects/br9-expansion.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-comp-7",
+            "project_name": "HGU Project Civil & Structural",
+            "client": "Linde Engineering / IOCL",
+            "contract_value_millions": 148.52,
+            "description": "Civil, Structural & U/G Piping.",
+            "completion_date": "2010",
+            "image": "/images/projects/hgu-msq.jpg",
+            "location": "Barauni Refinery, Bihar"
+        },
+        {
+            "id": "og-comp-8",
+            "project_name": "MSQ EPCC-1 Upgradation",
+            "client": "Punj Lloyd / IOCL",
+            "contract_value_millions": 490.55,
+            "description": "Civil, Architectural & Structural Works.",
+            "completion_date": "Dec 2010",
+            "image": "/images/projects/control-room-msq.jpg",
+            "location": "Barauni Refinery, Bihar"
+        }
+    ]
 }
