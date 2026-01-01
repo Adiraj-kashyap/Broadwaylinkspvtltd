@@ -37,7 +37,7 @@ export default function StatsAndBrands() {
                     >
                         <h2 className="text-3xl font-bold text-[#0B2C4D] mb-6">Consistent Growth Track Record</h2>
                         <p className="text-gray-600 mb-8">
-                            With an average annual turnover of <strong>₹{(financialsData.average_annual_turnover / 10000000).toFixed(0)} Crores</strong> and a strong balance sheet,
+                            With an average annual turnover of <strong>₹{(financialsData.average_annual_turnover / 10000000).toFixed(1)} Crores</strong> for the last 5 years and a strong balance sheet,
                             BLPL demonstrates financial stability and execution capability for large-scale infrastructure projects.
                         </p>
 
