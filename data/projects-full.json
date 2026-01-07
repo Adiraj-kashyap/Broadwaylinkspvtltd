@@ -1,0 +1,1290 @@
+[
+    {
+        "id": "widening-to-2-lane-with-paved-shoulders-improvement-of-nh-98-from-km-5700-to-km-",
+        "title": "Widening to 2 Lane with paved shoulders & improvement of NH-98 from Km 57.00 to Km 79.147 under NH(O) in the state of Jharkhand (Job No. 098-JHR-2016-17/255)",
+        "client": "EE, NH Division, Medininagar",
+        "description": "Bituminous Road, GSB, WMM, RCC Drain and RCC Box Culverts, PROTECTION WORKS",
+        "contract_value": "65.04",
+        "start_date": "28.04.2017",
+        "completion_date": "30.04.2019",
+        "status_text": "Additional work/ SUPPLEMENTARY AGREEMENT",
+        "location": "Jharkhand",
+        "quantities": {},
+        "status": "Completed",
+        "yearly_quantities": [],
+        "index": 1
+    },
+    {
+        "id": "strengthening-and-construction-of-black-top-road-on-top-of-lower-noon-left-emban",
+        "title": "Strengthening and Construction of Black-Top Road on top of Lower Noon left   Embankment from 501.00 R.D to 581.00 R.D  and Khemait Jheel link Channel left Embankment from 0.00 RD to 35.70 R.D under Flood Control Division Dalsinghsarai. 01SBD/2015-16",
+        "client": "EE, FCD, Dalsinghsarai",
+        "description": "Bituminous Road Works, Brick work Retaining Wall",
+        "contract_value": "46.58",
+        "start_date": "11.04.2015",
+        "completion_date": "31.3.2019",
+        "status_text": "BLPL SHARE 74% IN BLPL-MGCPL (JV)\n\nConstruction Completed & Under Maintenance",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Completed",
+        "yearly_quantities": [],
+        "index": 2
+    },
+    {
+        "id": "construction-of-black-top-road-on-top-of-lower-noon-right-embankment-from-50050-",
+        "title": "Construction of Black-Top Road on top of Lower Noon right   Embankment from 500.50 R.D 589.00 R.D  and Khemait Jheel link right Embankment from 0.00 RD to 33.00 R.D under Flood Control Division Dalsinghsarai",
+        "client": "EE, FCD, Dalsinghsarai",
+        "description": "Bituminous Road Works, Brick work Retaining Wall",
+        "contract_value": "54.66",
+        "start_date": "17.02.2017",
+        "completion_date": "15.07.2019",
+        "status_text": "Construction Completed & Under Maintenance",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Completed",
+        "yearly_quantities": [],
+        "index": 3
+    },
+    {
+        "id": "restoration-and-lining-of-sone-western-link-canal",
+        "title": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+        "client": "EE, SONE BARRAGE DIVISION, INDRAPURI",
+        "description": "Earth Work, Canal Concrete Lining, Road Works, Pump House, Retaining Wall, Boulder Pitching",
+        "contract_value": "230.08",
+        "start_date": "02.02.2017",
+        "completion_date": "30.04.2022",
+        "status_text": "BLPL SHARE 27.50% IN BLPL-C&C (JV)\nSUBCONTRACT 69.70% FROM C&C (LEAD MEMBER)\n\nConstruction Completed & Under Maintenance",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "36,495.07",
+            "Earth Work": "794,396.94",
+            "Sand Filling": "61,296.84",
+            "GSB": "37,254.11",
+            "Boulder Pitching": "11,444.32",
+            "Steel": "65.76"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+                "quantities": {
+                    "Concrete Work": "15,355.74",
+                    "Earth Work": "529,578.08",
+                    "Sand Filling": "15,970.93",
+                    "GSB": "23,766.69",
+                    "Boulder Pitching": "4,814.40"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+                "quantities": {
+                    "Concrete Work": "17,308.31",
+                    "Steel": "1.26",
+                    "Earth Work": "252,333.02",
+                    "Sand Filling": "14,223.01",
+                    "GSB": "13,393.01",
+                    "Boulder Pitching": "6,280.00"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+                "quantities": {
+                    "Concrete Work": "3,831.02",
+                    "Steel": "64.50",
+                    "Earth Work": "12,485.84",
+                    "Sand Filling": "31,102.90",
+                    "GSB": "94.41",
+                    "Boulder Pitching": "349.92"
+                }
+            }
+        ],
+        "index": 4
+    },
+    {
+        "id": "construction-of-canal-and-its-lining-work-and-structures-from-rd-80640-to-rd-827",
+        "title": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "client": "EE, Tirhut Canal Division, Motipur, Camp- Muzaffarpur",
+        "description": "Earth Work, Canal Concrete Lining, Road Works, Pump House, Retaining Wall, Boulder Pitching",
+        "contract_value": "117.94",
+        "start_date": "22.11.2017",
+        "completion_date": "31.12.2024",
+        "status_text": "Work Completed, 31.12.2024 EOT REQUESTED, Final Deviation under progress",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "25,507.04",
+            "Earth Work": "748,119.58"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+                "quantities": {
+                    "Concrete Work": "5,986.68",
+                    "Earth Work": "543,468.00"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+                "quantities": {
+                    "Concrete Work": "5,887.00"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+                "quantities": {
+                    "Concrete Work": "5,012.29",
+                    "Earth Work": "34,920.89"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+                "quantities": {
+                    "Concrete Work": "6,164.25",
+                    "Earth Work": "16,161.47"
+                }
+            },
+            {
+                "year": "2024-25",
+                "original_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+                "quantities": {
+                    "Concrete Work": "2,456.82",
+                    "Earth Work": "153,569.22"
+                }
+            }
+        ],
+        "index": 5
+    },
+    {
+        "id": "widening-and-strengthening-of-samastipur-dalsinghsarai-road-in-km-2000-to-km-288",
+        "title": "Widening and Strengthening of Samastipur-Dalsinghsarai Road in Km. 20.00 to Km. 28.80 (Total Length 7.900 Km.) for the year 2018-19",
+        "client": "EE, RCD, ROSERA",
+        "description": "Bituminous & PQC Road works, RCC Drain, Electrical utility shifting works",
+        "contract_value": "18.91",
+        "start_date": "19.07.2019",
+        "completion_date": "02.12.2020",
+        "status_text": "02.12.2020",
+        "location": "Samastipur, Bihar",
+        "quantities": {
+            "Concrete Work": "4,408.61",
+            "Earth Work": "27,506.49",
+            "Sand Filling": "148.50",
+            "Brick Soling": "990.00",
+            "GSB": "14,353.81",
+            "WMM": "11,110.66",
+            "BM": "2,731.07",
+            "Bituminous Work": "4,105.01",
+            "Backfilling": "15.66"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening and Strengthening of Samastipur-Dalsinghsarai Road in Km. 20.00 to Km. 28.80 (Total Length 7.900 Km.) for the year 2018-19",
+                "quantities": {
+                    "Concrete Work": "4,408.61",
+                    "Earth Work": "27,506.49",
+                    "Sand Filling": "148.50",
+                    "Brick Soling": "990.00",
+                    "GSB": "14,353.81",
+                    "WMM": "11,110.66",
+                    "BM": "2,731.07",
+                    "Bituminous Work": "4,105.01",
+                    "Backfilling": "15.66"
+                }
+            }
+        ],
+        "index": 6
+    },
+    {
+        "id": "widening-strengthening-of-dharraura-chowk-to-mazampur-bajidpur-bahera-jhanjharpu",
+        "title": "Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20",
+        "client": "EE, RCD, BENIPUR",
+        "description": "Bituminous & PQC Road works, RCC Drain",
+        "contract_value": "10.54",
+        "start_date": "16.03.2020",
+        "completion_date": "31.01.2022",
+        "status_text": "Construction Completed & Under Maintenance",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "5,147.69",
+            "Earth Work": "34,562.19",
+            "GSB": "3,927.28",
+            "WMM": "1,556.27",
+            "BM": "1,676.60",
+            "Bituminous Work": "2,684.02",
+            "Brick Soling": "16.66"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "2,929.04",
+                    "Earth Work": "3,353.97",
+                    "GSB": "2,628.39",
+                    "WMM": "1,046.22",
+                    "BM": "187.50",
+                    "Bituminous Work": "187.50"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "2,218.65",
+                    "Earth Work": "31,208.22",
+                    "Brick Soling": "16.66",
+                    "GSB": "1,298.89",
+                    "WMM": "510.05",
+                    "BM": "1,489.10",
+                    "Bituminous Work": "2,496.52"
+                }
+            }
+        ],
+        "index": 7
+    },
+    {
+        "id": "widening-strengthening-of-supaul-to-bauram-road-in-km-000-to-1220-under-road-div",
+        "title": "Widening & Strengthening of Supaul to Bauram Road  in km 0.00 to 12.20 under Road Division Benipur for the year 2019-20Widening & Strengthening of Supaul to Bauram Road  in km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+        "client": "EE, RCD, BENIPUR",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "32.70",
+        "start_date": "20.07.2020",
+        "completion_date": "15.03.2024",
+        "status_text": "18 MONTHS EOT IN PROCESS",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "10,763.40",
+            "Earth Work": "70,822.86",
+            "GSB": "27,886.01",
+            "Steel": "133.21",
+            "WMM": "11,007.12",
+            "BM": "2,642.13",
+            "Bituminous Work": "3,962.08",
+            "Boulder Pitching": "121.45"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "2,142.92",
+                    "Earth Work": "21,026.12",
+                    "GSB": "476.60"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "2,116.46",
+                    "Steel": "48.18",
+                    "Earth Work": "17,764.00",
+                    "GSB": "6,988.78"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "5,525.26",
+                    "Steel": "85.03",
+                    "Earth Work": "29,340.90",
+                    "GSB": "20,016.18",
+                    "WMM": "11,007.12",
+                    "BM": "2,238.48",
+                    "Bituminous Work": "3,360.21"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "978.76",
+                    "Earth Work": "2,691.84",
+                    "GSB": "404.45",
+                    "BM": "403.65",
+                    "Bituminous Work": "601.87",
+                    "Boulder Pitching": "121.45"
+                }
+            }
+        ],
+        "index": 8
+    },
+    {
+        "id": "widening-strengthening-work-of-vishwakarma-chowk-to-guabadinarayanpipar-chaurahi",
+        "title": "Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.",
+        "client": "EE, RCD, BEGUSARAI",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "25.66",
+        "start_date": "04.12.2019",
+        "completion_date": "03.12.2021",
+        "status_text": "COVID-19",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "725.84",
+            "Earth Work": "125,265.07",
+            "GSB": "42,048.39",
+            "WMM": "19,655.52",
+            "BM": "4,715.73",
+            "Bituminous Work": "7,269.03"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.",
+                "quantities": {
+                    "Concrete Work": "275.60",
+                    "Earth Work": "84,658.80",
+                    "GSB": "38,167.48",
+                    "WMM": "16,364.08",
+                    "BM": "1,740.09",
+                    "Bituminous Work": "1,740.09"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.",
+                "quantities": {
+                    "Concrete Work": "450.24",
+                    "Earth Work": "40,606.27",
+                    "GSB": "3,880.91",
+                    "WMM": "3,291.44",
+                    "BM": "2,975.64",
+                    "Bituminous Work": "5,528.94"
+                }
+            }
+        ],
+        "index": 9
+    },
+    {
+        "id": "widening-and-strengthening-from-single-lane-to-double-lane-of-turki-nh-77-saraiy",
+        "title": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+        "client": "EE, RCD, RD-1, Muzaffarpur",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "39.88",
+        "start_date": "25.11.2020",
+        "completion_date": "31.03.2023",
+        "status_text": "Value Completed: 37.0252 Cr",
+        "location": "Muzaffarpur, Bihar",
+        "quantities": {
+            "GSB": "33,084.63",
+            "WMM": "16,365.90",
+            "Concrete Work": "3,790.33",
+            "Steel": "95.98",
+            "BM": "7,858.64",
+            "Bituminous Work": "12,354.31",
+            "Earth Work": "60,567.54"
+        },
+        "status": "Ongoing",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+                "quantities": {
+                    "GSB": "6,844.70",
+                    "WMM": "3,084.57"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+                "quantities": {
+                    "Concrete Work": "2,480.30",
+                    "Steel": "16.87",
+                    "GSB": "18,491.48",
+                    "WMM": "9,146.48",
+                    "BM": "1,420.57",
+                    "Bituminous Work": "1,420.57"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+                "quantities": {
+                    "Concrete Work": "1,310.03",
+                    "Steel": "79.11",
+                    "Earth Work": "60,567.54",
+                    "GSB": "7,748.45",
+                    "WMM": "4,134.85",
+                    "BM": "6,438.07",
+                    "Bituminous Work": "10,933.74"
+                }
+            }
+        ],
+        "contract_no": "LOA ISSUED VIDE LETTER NO. 2167 DT. 25.11.2020",
+        "index": 10
+    },
+    {
+        "id": "widening-and-strenthening-of-road-from-basariya-nh-28-to-sarairanjan-nh-103-via-",
+        "title": "Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.",
+        "client": "EE, RCD, ROSERA",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "11.03",
+        "start_date": "29.05.2020",
+        "completion_date": "10.03.2022",
+        "status_text": "2020-21",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "2,693.81",
+            "Earth Work": "24,946.44",
+            "GSB": "13,155.16",
+            "WMM": "6,573.56",
+            "BM": "1,454.12",
+            "Bituminous Work": "2,247.27"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.",
+                "quantities": {
+                    "Concrete Work": "2,597.56",
+                    "Earth Work": "13,126.96",
+                    "GSB": "12,133.73",
+                    "WMM": "5,635.29"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.",
+                "quantities": {
+                    "Concrete Work": "96.25",
+                    "Earth Work": "11,819.48",
+                    "GSB": "1,021.43",
+                    "WMM": "938.27",
+                    "BM": "1,454.12",
+                    "Bituminous Work": "2,247.27"
+                }
+            }
+        ],
+        "index": 11
+    },
+    {
+        "id": "widening-and-strengthening-of-magardahighat-to-silout-durga-asthan-road-in-km-00",
+        "title": "Widening and Strengthening of Magardahighat to Silout (Durga Asthan) Road in Km 0.00 to 5.00 (Total Length - 5.00 Km) for the year 2019-20.",
+        "client": "EE, RCD, Samastipur",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "18.28",
+        "start_date": "24.12.2020",
+        "completion_date": "31.03.2024",
+        "status_text": "2020-21",
+        "location": "Bihar",
+        "quantities": {
+            "Earth Work": "178,331.94",
+            "GSB": "15,385.53",
+            "WMM": "8,730.66",
+            "BM": "2,097.45",
+            "Bituminous Work": "3,154.67",
+            "Boulder Pitching": "7,497.18"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+                "quantities": {
+                    "Earth Work": "99,971.60",
+                    "GSB": "2,568.00"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+                "quantities": {
+                    "Earth Work": "75,923.11",
+                    "GSB": "11,660.63",
+                    "WMM": "7,778.12",
+                    "BM": "836.94",
+                    "Bituminous Work": "836.94",
+                    "Boulder Pitching": "4,287.98"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+                "quantities": {
+                    "GSB": "1,156.90",
+                    "WMM": "952.54",
+                    "BM": "1,260.51",
+                    "Bituminous Work": "2,317.28",
+                    "Boulder Pitching": "1,091.20"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+                "quantities": {
+                    "Boulder Pitching": "1,800.00"
+                }
+            },
+            {
+                "year": "2024-25",
+                "original_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+                "quantities": {
+                    "Earth Work": "2,437.23",
+                    "Bituminous Work": "0.45",
+                    "Boulder Pitching": "318.00"
+                }
+            }
+        ],
+        "index": 12
+    },
+    {
+        "id": "widening-and-strengthening-of-muktapur-warisnagar-bhadoghat-hathauri-road-in-km-",
+        "title": "WIDENING AND STRENGTHENING OF MUKTAPUR-WARISNAGAR-BHADOGHAT-HATHAURI ROAD IN KM 00 TO 23.300 (TOTAL LENGTH - 23.30 KM) FOR THE YEAR 2019-20",
+        "client": "EE, RCD, Samastipur",
+        "description": "Bituminous & PQC Road works, RCC BOX CULVERT, RCC Drain",
+        "contract_value": "35.07",
+        "start_date": "22.09.2020",
+        "completion_date": "31.03.2024",
+        "status_text": "2020-21",
+        "location": "Bihar",
+        "quantities": {
+            "Concrete Work": "10,836.68",
+            "Earth Work": "116,690.97",
+            "GSB": "28,268.02",
+            "WMM": "19,249.80",
+            "BM": "4,837.24",
+            "Bituminous Work": "7,536.12"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "274.72",
+                    "Earth Work": "8,287.50",
+                    "GSB": "6,345.55",
+                    "WMM": "3,645.00"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "6,034.36",
+                    "Earth Work": "13,099.00",
+                    "GSB": "13,217.96",
+                    "WMM": "8,849.90",
+                    "BM": "1,690.33",
+                    "Bituminous Work": "1,690.33"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "3,795.32",
+                    "Earth Work": "56,053.12",
+                    "GSB": "8,704.51",
+                    "WMM": "6,754.90",
+                    "BM": "3,146.91",
+                    "Bituminous Work": "5,845.79"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+                "quantities": {
+                    "Earth Work": "24,088.97"
+                }
+            },
+            {
+                "year": "2024-25",
+                "original_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "732.28",
+                    "Earth Work": "15,162.38"
+                }
+            }
+        ],
+        "index": 13
+    },
+    {
+        "id": "piling-civil-structural-and-underground-piping-work-for-new-process-units-such-a",
+        "title": "Piling, Civil & Structural and Underground Piping Work for new Process units such as NHT, CCR, NAPTHA SPLITTER, BENSAT and MS BLENDING UNITS OF BS-IV PROJECT at Barauni Refinery (Tender No. TP/069107C001/T/BS-IV/16)",
+        "client": "IOCL, Refineries Division, New Delhi",
+        "description": "Piling, Civil & Structural and Underground Piping Work",
+        "contract_value": "80.69",
+        "start_date": "28.08.2017",
+        "completion_date": "29.06.2020",
+        "status_text": "Design Engineering Changes, Delay in Site Handover & COVID-19\nOrder Value 78,66,63,845.75 (without GST)\nActual Completion Cost 80,68,92,297.53 (without GST)",
+        "location": "Barauni, Bihar",
+        "quantities": {
+            "Concrete Work": "627.39"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Piling, Civil & Structural and Underground Piping Work for new Process units such as NHT, CCR, NAPTHA SPLITTER, BENSAT and MS BLENDING UNITS OF BS-IV PROJECT at Barauni Refinery (Tender No. TP/069107C001/T/BS-IV/16)",
+                "quantities": {
+                    "Concrete Work": "627.39"
+                }
+            }
+        ],
+        "index": 14
+    },
+    {
+        "id": "civil-works-including-building-and-ugpiping-works-for-hurl-project-barauni-subco",
+        "title": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "client": "Technip India Limited",
+        "description": "Civil Earthwork, PCC/RCC Including Buildings and Under Ground Piping",
+        "contract_value": "98.72",
+        "start_date": "07.01.2019",
+        "completion_date": "31.03.2022",
+        "status_text": "Works Completed\nDelay Reasons Covid-19 wave 1 & 2\n\nCompletion Cost 987241560.00 (Without GST)",
+        "location": "Barauni, Bihar",
+        "quantities": {
+            "Concrete Work": "18,690.82",
+            "Steel": "962.00",
+            "Earth Work": "28,858.86",
+            "BM": "3,941.17",
+            "GSB": "3,941.17"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+                "quantities": {
+                    "Concrete Work": "9,733.95",
+                    "Steel": "573.00",
+                    "Earth Work": "24,291.87",
+                    "BM": "1,430.10",
+                    "GSB": "1,430.10"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+                "quantities": {
+                    "Concrete Work": "6,743.31",
+                    "Steel": "224.00",
+                    "Earth Work": "3,447.92",
+                    "BM": "1,498.31",
+                    "GSB": "1,498.31"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+                "quantities": {
+                    "Concrete Work": "2,213.56",
+                    "Steel": "165.00",
+                    "Earth Work": "1,119.07",
+                    "BM": "1,012.76",
+                    "GSB": "1,012.76"
+                }
+            }
+        ],
+        "index": 15
+    },
+    {
+        "id": "subcontract-for-piling-works-of-dhdt-unit-at-iocl-barauni",
+        "title": "Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI",
+        "client": "CB&I India Private Limited (MCDERMOTT)",
+        "description": "Piling Works",
+        "contract_value": "20.05",
+        "start_date": "04.08.2021",
+        "completion_date": "30.01.2023",
+        "status_text": "Works Completed, Delay in Works due to Increase in Scope",
+        "location": "Barauni, Bihar",
+        "quantities": {
+            "Concrete Work": "5,753.04",
+            "Steel": "762.06",
+            "Piling": "29,300.24"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2021-22",
+                "original_name": "Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI",
+                "quantities": {
+                    "Concrete Work": "1,677.02",
+                    "Steel": "279.00",
+                    "Piling": "8,541.00"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI",
+                "quantities": {
+                    "Concrete Work": "4,076.02",
+                    "Steel": "483.06",
+                    "Piling": "20,759.24"
+                }
+            }
+        ],
+        "index": 16
+    },
+    {
+        "id": "subcontract-for-piling-works-for-ohcu-project-iocl-barauni",
+        "title": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+        "client": "Technip Energies India Limited, NOIDA",
+        "description": "Piling Works",
+        "contract_value": "9.89",
+        "start_date": "19.06.2021",
+        "completion_date": "16.03.2023",
+        "status_text": "Works Completed, Delay in Works due to Increase in Scope",
+        "location": "Barauni, Bihar",
+        "quantities": {
+            "Concrete Work": "3,729.46",
+            "Piling": "18,994.00",
+            "Steel": "374.00"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2021-22",
+                "original_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+                "quantities": {
+                    "Concrete Work": "2,248.99",
+                    "Piling": "11,454.00"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+                "quantities": {
+                    "Concrete Work": "1,442.97",
+                    "Steel": "374.00",
+                    "Piling": "7,349.00"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+                "quantities": {
+                    "Concrete Work": "37.50",
+                    "Piling": "191.00"
+                }
+            }
+        ],
+        "index": 17
+    },
+    {
+        "id": "subcontract-for-piling-work-for-nht-ll-isom-ll-unit-at-iocl-barauni-bihar",
+        "title": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "client": "CB&I India Private Limited (MCDERMOTT)",
+        "description": "Piling & Civil Works",
+        "contract_value": "14.35",
+        "start_date": "12.11.2021",
+        "completion_date": "30.08.2023",
+        "status_text": "Works Completed, Delay in Works due to Increase in Scope",
+        "location": "Barauni, Bihar",
+        "quantities": {
+            "Concrete Work": "3,181.64",
+            "Steel": "455.37",
+            "Piling": "16,203.83",
+            "Earth Work": "4,394.00"
+        },
+        "status": "Completed",
+        "yearly_quantities": [
+            {
+                "year": "2021-22",
+                "original_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+                "quantities": {
+                    "Concrete Work": "817.01",
+                    "Steel": "175.02",
+                    "Piling": "4,161.00"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+                "quantities": {
+                    "Concrete Work": "2,123.91",
+                    "Steel": "277.33",
+                    "Piling": "10,817.00"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+                "quantities": {
+                    "Concrete Work": "240.72",
+                    "Steel": "3.02",
+                    "Earth Work": "4,394.00",
+                    "Piling": "1,225.83"
+                }
+            }
+        ],
+        "index": 18
+    },
+    {
+        "id": "piling-civil-including-building-structure-road-and-drainage-works-at-100-klpd-et",
+        "title": "Piling, Civil including Building, Structure, Road and Drainage Works at 100 KLPD ETHANOL Project, BIADA INDUSTRIAL AREA, Begusarai",
+        "client": "NEW WAY HOMES PRIVATE LIMITED, New Delhi- 110001\nIndia",
+        "description": "Piling, Civil including Buildings, Structure, Road and Drain works",
+        "contract_value": "38.57",
+        "start_date": "16.03.2022",
+        "completion_date": "30.09.2023",
+        "status_text": "30.09.2023",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Completed",
+        "yearly_quantities": [],
+        "index": 19
+    },
+    {
+        "id": "widening-strengthening-of-road-from-km-38-of-mahnar-mohiuddinagar-bachhwara-road",
+        "title": "Widening & Strengthening of road from km 38 of Mahnar-Mohiuddinagar-Bachhwara road Mau Bazar to Piparpati-Garhsisai-Bangraha-Barhouna High School-Barhouna Ghat from km 0 to 18.00 (Total length 18.00 km) under Road Division Samastipur",
+        "client": "EE, RCD, SAMASTIPUR",
+        "description": "",
+        "contract_value": "15.79",
+        "start_date": "1",
+        "completion_date": "26.1.19 CONSTRUCTION WORK COMPLETED",
+        "status_text": "Value Completed: 15.6089 Cr",
+        "location": "SAMASTIPUR, BIHAR",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "03/CMBD/2017-18 dt. 27.07.17",
+        "index": 20
+    },
+    {
+        "id": "lining-work-of-chausa-branch-canal-from-km-0000-to-km-12924-restoration-of-kocha",
+        "title": "Lining work of Chausa Branch Canal from Km. 0.000 to Km. 12.924 & restoration of Kochas and Indore distributary under Ganga Pump Canal Division Chousa Buxar",
+        "client": "EE, Ganga Pump Canal Division, Chousa Buxar",
+        "description": "",
+        "contract_value": "86.49",
+        "start_date": "04.11.2017",
+        "completion_date": "30.06.2022",
+        "status_text": "Value Completed: 79.5716 Cr",
+        "location": "Chousa, Buxar",
+        "quantities": {
+            "Concrete Work": "23,554.18",
+            "Earth Work": "423,059.94"
+        },
+        "status": "Ongoing",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+                "quantities": {
+                    "Concrete Work": "2,915.45",
+                    "Earth Work": "49,521.59"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+                "quantities": {
+                    "Concrete Work": "5,139.98",
+                    "Earth Work": "244,016.79"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+                "quantities": {
+                    "Concrete Work": "6,309.72",
+                    "Earth Work": "11,983.55"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+                "quantities": {
+                    "Concrete Work": "4,830.91",
+                    "Earth Work": "93,270.00"
+                }
+            },
+            {
+                "year": "2024-25",
+                "original_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+                "quantities": {
+                    "Concrete Work": "4,358.12",
+                    "Earth Work": "24,268.01"
+                }
+            }
+        ],
+        "contract_no": "01SBD/2017-18 dated 04.11.2017",
+        "index": 21
+    },
+    {
+        "id": "long-term-output-and-performance-based-road-maintenance-work-for-the-roads-packa",
+        "title": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.11 A/OPRMC2/ROSERA",
+        "client": "EE, RCD, ROSERA",
+        "description": "",
+        "contract_value": "106.35",
+        "start_date": "20.02.2019",
+        "completion_date": "21.02.2026",
+        "status_text": "Value Completed: 71.6077 Cr",
+        "location": "Rosera, Samstipur, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "05MBD/2018-19 DT. 20.02.2019 + ADD AGG DT. 04.10.2025",
+        "index": 22
+    },
+    {
+        "id": "long-term-output-and-performance-based-road-maintenance-work-for-the-roads-packa-1",
+        "title": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+        "client": "EE, BENIPUR, DARBHANGA",
+        "description": "",
+        "contract_value": "114.30",
+        "start_date": "12.02.2019",
+        "completion_date": "11.02.2026",
+        "status_text": "Value Completed: 95.5923 Cr",
+        "location": "BENIPUR, DARBHANGA",
+        "quantities": {
+            "Concrete Work": "6,992.32",
+            "Earth Work": "8,597.76",
+            "Brick Soling": "5,808.73",
+            "GSB": "2,326.29",
+            "WMM": "158.81",
+            "Bituminous Work": "14,830.12"
+        },
+        "status": "Ongoing",
+        "yearly_quantities": [
+            {
+                "year": "2020-21",
+                "original_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+                "quantities": {
+                    "Concrete Work": "6,412.95",
+                    "Earth Work": "8,597.76",
+                    "Brick Soling": "5,808.73",
+                    "GSB": "2,153.40",
+                    "WMM": "158.81",
+                    "Bituminous Work": "8,926.94"
+                }
+            },
+            {
+                "year": "2021-22",
+                "original_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+                "quantities": {
+                    "Concrete Work": "274.15",
+                    "GSB": "94.08",
+                    "Bituminous Work": "5,903.18"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+                "quantities": {
+                    "Concrete Work": "305.22",
+                    "GSB": "78.81"
+                }
+            }
+        ],
+        "contract_no": "4/MBD/2018-19 DT. 12.02.2019 + ADD AGG. DT. 17.11.2025",
+        "index": 23
+    },
+    {
+        "id": "construction-and-upgradation-of-existing-road-along-indo-nepal-border-road-proje",
+        "title": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+        "client": "EE, RCD, SITAMARHI",
+        "description": "",
+        "contract_value": "214.65",
+        "start_date": "04.06.2021",
+        "completion_date": "04.12.2023",
+        "status_text": "Value Completed: 183.5169 Cr",
+        "location": "SITAMARHI, BIHAR",
+        "quantities": {
+            "Concrete Work": "8,495.41",
+            "Steel": "516.45",
+            "Earth Work": "1,605,252.02",
+            "GSB": "214,442.98",
+            "WMM": "76,013.91",
+            "BM": "11,278.89",
+            "Bituminous Work": "16,895.57"
+        },
+        "status": "Ongoing",
+        "yearly_quantities": [
+            {
+                "year": "2021-22",
+                "original_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "425.16",
+                    "Steel": "24.14",
+                    "Earth Work": "540,938.12",
+                    "GSB": "17,034.38",
+                    "WMM": "3,429.38"
+                }
+            },
+            {
+                "year": "2022-23",
+                "original_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "2,452.86",
+                    "Steel": "127.58",
+                    "Earth Work": "71,736.46",
+                    "GSB": "13,805.48",
+                    "WMM": "3,391.88"
+                }
+            },
+            {
+                "year": "2023-24",
+                "original_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "5,426.59",
+                    "Steel": "364.73",
+                    "Earth Work": "620,866.95",
+                    "GSB": "71,975.76",
+                    "WMM": "26,367.97",
+                    "BM": "5,150.95",
+                    "Bituminous Work": "6,953.80"
+                }
+            },
+            {
+                "year": "2024-25",
+                "original_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+                "quantities": {
+                    "Concrete Work": "190.80",
+                    "Earth Work": "371,710.49",
+                    "GSB": "111,627.36",
+                    "WMM": "42,824.68",
+                    "BM": "6,127.94",
+                    "Bituminous Work": "9,941.77"
+                }
+            }
+        ],
+        "contract_no": "LOA VIDE LETTER NO. 760 DT.04.06.2021 & Notice to Proceed vide Letter No. 766 dt. 05.06.2021 ",
+        "index": 24
+    },
+    {
+        "id": "restoration-work-of-saran-main-canal-from-km-000-to-km-1700",
+        "title": "Restoration Work of Saran Main Canal From K.m. 0.00 to K.M. 17.00",
+        "client": "EE, SCD, WRD, Gopalganj",
+        "description": "",
+        "contract_value": "376.37",
+        "start_date": "15.03.2024",
+        "completion_date": "14.06.2026",
+        "status_text": "Value Completed: 259.9905 Cr",
+        "location": "Gopalganj, Bihar",
+        "quantities": {
+            "Concrete Work": "35,728.06",
+            "Earth Work": "1,284,228.04",
+            "Sand Filling": "27,890.68"
+        },
+        "status": "Ongoing",
+        "yearly_quantities": [
+            {
+                "year": "2024-25",
+                "original_name": "Restoration Work of Saran Main Canal From K.m. 0.00 to K.M. 17.00",
+                "quantities": {
+                    "Concrete Work": "35,728.06",
+                    "Earth Work": "1,284,228.04",
+                    "Sand Filling": "27,890.68"
+                }
+            }
+        ],
+        "contract_no": "01-SBD/2023-24 dt. 15.03.2024 & SA 01-SBD/2023-24 dt. 22.10.2024",
+        "index": 25
+    },
+    {
+        "id": "barricading-works-for-ohcu-project-iocl-barauni-subcontract-from-technip-india-l",
+        "title": "Barricading Works for OHCU Project, IOCL Barauni SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "client": "Technip India Limited",
+        "description": "",
+        "contract_value": "0.80",
+        "start_date": "24.02.2021",
+        "completion_date": "3 MONTHS\n24.08.21",
+        "status_text": "Value Completed: 0.3912 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "TECHNIP/CONS/201744C001/LOI/002 DT. 24.02.2021 SUB-CON APPROVAL DT. 10.04.21 FORM III DT. 25.05.21",
+        "index": 26
+    },
+    {
+        "id": "dismantling-works-for-ohcu-project-iocl-barauni-subcontract-from-technip-india-l",
+        "title": "Dismantling Works for OHCU Project, IOCL Barauni SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "client": "Technip India Limited",
+        "description": "",
+        "contract_value": "2.63",
+        "start_date": "09.03.2021",
+        "completion_date": "3 MONTHS\n24.08.21",
+        "status_text": "Value Completed: 1.4475 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "TECHNIP/CONS/201744C001/LOI/004 DT. 09.03.2021 SUB-CON APPROVAL DT. 10.04.21 FORM III DT. 25.03.21",
+        "index": 27
+    },
+    {
+        "id": "civil-ug-structural-steel-works-for-ohcu-project-iocl-barauni-subcontract-from-t",
+        "title": "Civil, UG & Structural Steel Works for OHCU Project, IOCL Barauni SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "client": "Technip India Limited",
+        "description": "",
+        "contract_value": "63.78",
+        "start_date": "27.04.2021",
+        "completion_date": "31.03.2023",
+        "status_text": "Value Completed: 63.6849 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "TECHNIP/CONS/201744C001/LOI/004 DT. 27.04.2021 EFF. DATE OF START 01.06.2021 & ammend 5 dt. 07.03.2024",
+        "index": 28
+    },
+    {
+        "id": "construction-of-roads-storm-water-drains-culverts-electrical-instrumentation-cab",
+        "title": "CONSTRUCTION OF ROADS, STORM WATER DRAINS, CULVERTS, ELECTRICAL & INSTRUMENTATION CABLE TRENCHES, DUCT BANKS ETC. ALONG WITH THE ASSOCIATED JOBS IN OFF-SITE AREAS AS PART OF THE CAPACITY EXPANSION (TO 9.00 MMTPA) PROJECT OF BARAUNI REFINERY OF INDIAN OIL CORPORATION LIMITED AT BARAUNI, BIHAR.",
+        "client": "INDIAN OIL CORPORATION LTD",
+        "description": "",
+        "contract_value": "19.01",
+        "start_date": "03.06.2021",
+        "completion_date": "02.07.2022",
+        "status_text": "Value Completed: 12.6129 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "FOA NO. IBCE-6373-C00-\nPJM-TEN-EPCM-23/2020-\n21/FOA/027 DATED\n03.06.2021",
+        "index": 29
+    },
+    {
+        "id": "subcontract-for-civil-ug-works-on-diesel-hydrotreating-unit-dhdt-at-iocl-barauni",
+        "title": "SUBCONTRACT FOR CIVIL UG WORKS ON DIESEL HYDROTREATING UNIT (DHDT) AT IOCL, BARAUNI, BIHAR EPCC-05",
+        "client": "CB&I India Private Limited , Gurgaon, Haryana, 122002 India.",
+        "description": "",
+        "contract_value": "41.82",
+        "start_date": "10.11.2021",
+        "completion_date": "31.12.2024",
+        "status_text": "Value Completed: 39.3151 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "356420-SC-04/555591 dt. 10.11.2021 & Ammend 1 dt. 16.01.2024",
+        "index": 30
+    },
+    {
+        "id": "mechanical-works-for-iocl-barauni-project-project-no-en-22-1927-hydrogen-and-nit",
+        "title": "Mechanical Works for IOCL Barauni Project, Project No. EN-22-1927 (Hydrogen and Nitrogen Generation Unit at IOCL Barauni Refinery)",
+        "client": "Prodair Air Products India Pvt. Ltd., IOCL Barauni Refinery",
+        "description": "",
+        "contract_value": "72.47",
+        "start_date": "18.04.2023",
+        "completion_date": "31.07.2025",
+        "status_text": "Value Completed: 72.31 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "Contract No. 4900120303 dated 18.04.2023 & Ammend 3 dt. 02.01.2025",
+        "index": 31
+    },
+    {
+        "id": "composite-works-for-unit-and-balance-offsite-of-new-biturox-plant-and-allied-fac",
+        "title": "Composite Works for Unit and Balance Offsite of New Biturox Plant and Allied Facilities of Barauni Refinery of IOCL",
+        "client": "INDIAN OIL CORPORATION LTD",
+        "description": "",
+        "contract_value": "79.42",
+        "start_date": "04.11.2025",
+        "completion_date": "09.12.2025",
+        "status_text": "Value Completed: 0 Cr",
+        "location": "Barauni, Bihar",
+        "quantities": {},
+        "status": "Ongoing",
+        "yearly_quantities": [],
+        "contract_no": "Work Order No. 71654304 dt. 04.11.2025",
+        "index": 32
+    },
+    {
+        "id": "modernization-of-western-main-canal-from-0000-km-to-07100-km-of-western-main-can",
+        "title": "Modernization of Western Main Canal from 0.000 km to 07.100 km of Western main canal of Sone Canal System under Bihar Water Security and Irrigation Modernization Project (BWSIMP)",
+        "client": "DEHRI, BIHAR",
+        "description": "CE, IC, DEHRI",
+        "contract_value": "BID SUBMISSION DATE 04.09.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 33
+    },
+    {
+        "id": "modernization-of-western-main-canal-from-7100-km-to-18700-km-and-added-2700-km-d",
+        "title": "Modernization of Western Main Canal from 7.100 km to 18.700 km and + Added 2.700 Km Distance to Jainagra Lock of Western main canal of Sone Canal System under Bihar Water Security and Irrigation Modernization Project (BWSIMP)",
+        "client": "DEHRI, BIHAR",
+        "description": "CE, IC, DEHRI",
+        "contract_value": "BID SUBMISSION DATE 04.09.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 34
+    },
+    {
+        "id": "rehabilitation-and-modernization-of-western-kosi-main-canal-from-km-000-to-km-18",
+        "title": "Rehabilitation and Modernization of Western Kosi Main Canal from km. 0.00 to km. 18.29 (India Portion) of Western Kosi Irrigation Scheme under Bihar Water Security and Irrigation Modernization Project (BWSIMP)",
+        "client": "MADHUNABI, BIHAR",
+        "description": "CE, IC, DARBHANGA",
+        "contract_value": "BID SUBMISSION DATE 04.09.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 35
+    },
+    {
+        "id": "rehabilitation-and-modernization-of-western-kosi-main-canal-from-km-1829-to-km-2",
+        "title": "Rehabilitation and Modernization of Western Kosi Main Canal from KM 18.29 to KM 26.21 (India Portion) of Western Kosi Irrigation Scheme under Bihar Water Security and Irrigation Modernization Project (BWSIMP)",
+        "client": "MADHUBANI, BIHAR",
+        "description": "CE, IC DARBHANGA",
+        "contract_value": "BID SUBMISSION DATE 04.09.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 36
+    },
+    {
+        "id": "rehabilitation-and-modernization-of-western-kosi-main-canal-from-km-2621-to-km-3",
+        "title": "Rehabilitation and Modernization of Western Kosi Main Canal from KM 26.21 to KM 36.18 (India Portion) of Western Kosi Irrigation Scheme under Bihar Water Security and Irrigation Modernization Project",
+        "client": "MADHUBANI, BIHAR",
+        "description": "CE, IC DARBHANGA",
+        "contract_value": "BID SUBMISSION DATE 04.09.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 37
+    },
+    {
+        "id": "miscellaneous-civil-strl-works-for-387-acre-area-for-panipat-refinery-expansion-",
+        "title": "MISCELLANEOUS CIVIL & STRL. WORKS FOR 387 ACRE AREA FOR PANIPAT REFINERY EXPANSION PROJECT (P25) of M/s Indian Oil Corporation Limited (IOCL), India",
+        "client": "PANIPAT, HARYANA",
+        "description": "IOCL, PANIPAT",
+        "contract_value": "BID SUBMISSION DATE 04.12.2025 VALID FOR 180 DAYS",
+        "start_date": "TECHNICAL BID OPEN",
+        "completion_date": "nan",
+        "status_text": "",
+        "location": "Bihar",
+        "quantities": {},
+        "status": "Under Bidding",
+        "yearly_quantities": [],
+        "index": 38
+    }
+]

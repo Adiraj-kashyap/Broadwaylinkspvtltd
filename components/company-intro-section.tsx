@@ -20,8 +20,16 @@ export default function CompanyIntroSection({ hideJourneyButton = false }: Compa
   const assetsCr = (latestFinancials.total_assets / 10000000).toFixed(0)
 
   return (
-    <section id="about" className="py-24 bg-white overflow-hidden">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="about" className="py-24 bg-white overflow-hidden relative">
+      {/* Background Texture */}
+      <div className="absolute inset-0 z-0 pointer-events-none">
+        <img
+          src="/images/projects/10.jpg"
+          alt="Background Texture"
+          className="w-full h-full object-cover grayscale opacity-[0.1]"
+        />
+      </div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           <motion.div
             initial={{ opacity: 0, x: -50 }}
@@ -71,34 +79,34 @@ export default function CompanyIntroSection({ hideJourneyButton = false }: Compa
           </motion.div>
 
           <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
+            initial={{ opacity: 0, scale: 0.95 }}
             whileInView={{ opacity: 1, scale: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.6 }}
-            className="relative w-full h-[400px] lg:h-full"
+            transition={{ duration: 0.8 }}
+            className="relative w-full h-[500px] lg:h-full min-h-[500px]"
           >
             <div className="relative z-10 h-full rounded-2xl overflow-hidden shadow-2xl group">
+              <div className="absolute inset-0 bg-gradient-to-t from-[#0B2C4D]/90 via-transparent to-transparent z-20"></div>
               <img
-                src="/images/site-view-3.jpg"
+                src="/images/site-view-high-res.jpg"
                 alt="Infrastructure Projects"
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
               />
               {/* Stats Overlay */}
-              <div className="absolute bottom-0 left-0 w-full bg-gradient-to-t from-[#0B2C4D] via-[#0B2C4D]/80 to-transparent p-8 pt-24 text-white pointer-events-none">
-                <div className="grid grid-cols-2 gap-8 border-t border-white/20 pt-8 pointer-events-auto">
+              <div className="absolute bottom-0 left-0 w-full p-8 z-30">
+                <div className="flex gap-8 border-t border-white/20 pt-8 text-white">
                   <div>
-                    <div className="text-4xl font-bold mb-1">23+</div>
-                    <div className="text-sm opacity-80 font-medium">Years of Excellence</div>
+                    <div className="text-5xl font-bold mb-1 tracking-tight">23+</div>
+                    <div className="text-sm opacity-90 font-medium uppercase tracking-wider">Years of Excellence</div>
                   </div>
                   <div>
-                    <div className="text-4xl font-bold mb-1">₹2200Cr+</div>
-                    <div className="text-sm opacity-80 font-medium">Completed Works</div>
+                    <div className="text-5xl font-bold mb-1 tracking-tight">₹2200Cr+</div>
+                    <div className="text-sm opacity-90 font-medium uppercase tracking-wider">Completed Works</div>
                   </div>
                 </div>
               </div>
             </div>
-            {/* Decorative background element */}
-            <div className="absolute -top-6 -right-6 w-full h-full border-2 border-[#F28C28]/20 rounded-2xl -z-10"></div>
+
           </motion.div>
         </div>
       </div>

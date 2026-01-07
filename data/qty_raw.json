@@ -1,0 +1,685 @@
+[
+    {
+        "raw_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+        "normalized_name": "restoration and lining of sone western link canal",
+        "quantities": {
+            "Concrete Work": "15,355.74",
+            "Earth Work": "529,578.08",
+            "Sand Filling": "15,970.93",
+            "GSB": "23,766.69",
+            "Boulder Pitching": "4,814.40"
+        }
+    },
+    {
+        "raw_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal",
+        "quantities": {
+            "Concrete Work": "5,986.68",
+            "Earth Work": "543,468.00"
+        }
+    },
+    {
+        "raw_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+        "normalized_name": "lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar",
+        "quantities": {
+            "Concrete Work": "2,915.45",
+            "Brick Masonry": "178.34",
+            "Earth Work": "49,521.59"
+        }
+    },
+    {
+        "raw_name": "Widening and Strengthening of Samastipur-Dalsinghsarai Road in Km. 20.00 to Km. 28.80 (Total Length 7.900 Km.) for the year 2018-19",
+        "normalized_name": "widening and strengthening of samastipur dalsinghsarai road in km to km total length km for the year",
+        "quantities": {
+            "Concrete Work": "4,408.61",
+            "Earth Work": "27,506.49",
+            "Sand Filling": "148.50",
+            "Brick Soling": "990.00",
+            "GSB": "3,243.15",
+            "WMM": "11,110.66",
+            "Bituminous Work": "4,105.01",
+            "Backfilling": "15.66"
+        }
+    },
+    {
+        "raw_name": "Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.",
+        "normalized_name": "widening and strenthening of road from basariya nh to sarairanjan nh via ramnagar chowk bella megh chowk jhakhra sarairanjan saraiya morwa under road division rosera from ch km to for the year",
+        "quantities": {
+            "Concrete Work": "2,597.56",
+            "Earth Work": "13,126.96",
+            "GSB": "6,498.44",
+            "WMM": "5,635.29"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.",
+        "normalized_name": "widening strengthening work of vishwakarma chowk to guabadi narayanpipar chaurahi block head via bakhadda chowk of cheriya bariyarpur block for the year",
+        "quantities": {
+            "Concrete Work": "275.60",
+            "Earth Work": "84,658.80",
+            "GSB": "21,803.40",
+            "WMM": "16,364.08",
+            "Bituminous Work": "1,740.09"
+        }
+    },
+    {
+        "raw_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+        "normalized_name": "long term output and performance based road maintenance work for the roads package no a oprmc benipur",
+        "quantities": {
+            "Concrete Work": "6,412.95",
+            "Earth Work": "8,597.76",
+            "Brick Soling": "5,808.73",
+            "GSB": "1,994.59",
+            "WMM": "158.81",
+            "Bituminous Work": "8,926.94"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of dharraura chowk to mazampur bajidpur bahera jhanjharpur road in km to in darbhanga district under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "2,929.04",
+            "Earth Work": "3,353.97",
+            "GSB": "1,582.17",
+            "WMM": "1,046.22",
+            "Bituminous Work": "187.50"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of supaul to bauram road in km to under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "2,142.92",
+            "Earth Work": "21,026.12",
+            "GSB": "476.60"
+        }
+    },
+    {
+        "raw_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+        "normalized_name": "widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc",
+        "quantities": {
+            "GSB": "3,760.13",
+            "WMM": "3,084.57"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+        "normalized_name": "widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year",
+        "quantities": {
+            "Earth Work": "99,971.60",
+            "GSB": "2,568.00"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+        "normalized_name": "widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year",
+        "quantities": {
+            "Concrete Work": "274.72",
+            "Earth Work": "8,287.50",
+            "GSB": "2,700.55",
+            "WMM": "3,645.00"
+        }
+    },
+    {
+        "raw_name": "Piling, Civil & Structural and Underground Piping Work for new Process units such as NHT, CCR, NAPTHA SPLITTER, BENSAT and MS BLENDING UNITS OF BS-IV PROJECT at Barauni Refinery (Tender No. TP/069107C001/T/BS-IV/16)",
+        "normalized_name": "piling civil structural and underground piping work for new process units such as nht ccr naptha splitter bensat and ms blending units of bs iv project at barauni refinery tender no tp c t bs iv",
+        "quantities": {
+            "Concrete Work": "627.39"
+        }
+    },
+    {
+        "raw_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "normalized_name": "civil works including building and u g piping works for hurl project barauni subcontract from technip india limited",
+        "quantities": {
+            "Concrete Work": "9,733.95",
+            "Brick Masonry": "1,943.14",
+            "Earth Work": "24,291.87"
+        }
+    },
+    {
+        "raw_name": "1RESTORATION AND LINING OF SONE WESTERN LINK CANAL,2CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL,3Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar,4Widening and Strengthening of Samastipur-Dalsinghsarai Road in Km. 20.00 to Km. 28.80 (Total Length 7.900 Km.) for the year 2018-19,5Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.,6Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.,7 Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.,8Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20,9Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20,10Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 ),11Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20,12Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20,13Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "normalized_name": "restoration and lining of sone western link canal construction of canal and its lining work and structures from r d to r d under tirhut main canal lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar widening and strengthening of samastipur dalsinghsarai road in km to km total length km for the year widening and strenthening of road from basariya nh to sarairanjan nh via ramnagar chowk bella megh chowk jhakhra sarairanjan saraiya morwa under road division rosera from ch km to for the year widening strengthening work of vishwakarma chowk to guabadi narayanpipar chaurahi block head via bakhadda chowk of cheriya bariyarpur block for the year long term output and performance based road maintenance work for the roads package no a oprmc benipur widening strengthening of dharraura chowk to mazampur bajidpur bahera jhanjharpur road in km to in darbhanga district under road division benipur for the year widening strengthening of supaul to bauram road in km to under road division benipur for the year widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year civil works including building and u g piping works for hurl project barauni subcontract from technip india limited",
+        "quantities": {
+            "Concrete Work": "53,660.61",
+            "Brick Masonry": "2,121.48",
+            "Earth Work": "1,413,388.75",
+            "Sand Filling": "16,119.43",
+            "Brick Soling": "6,798.73",
+            "GSB": "68,393.72",
+            "WMM": "41,044.63",
+            "Bituminous Work": "14,959.54",
+            "Backfilling": "15.66",
+            "Boulder Pitching": "4,814.40"
+        }
+    },
+    {
+        "raw_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+        "normalized_name": "restoration and lining of sone western link canal",
+        "quantities": {
+            "Concrete Work": "17,308.31",
+            "Earth Work": "252,333.02",
+            "Sand Filling": "14,223.01",
+            "GSB": "13,393.01",
+            "Boulder Pitching": "6,280.00"
+        }
+    },
+    {
+        "raw_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal",
+        "quantities": {
+            "Concrete Work": "5,887.00"
+        }
+    },
+    {
+        "raw_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+        "normalized_name": "lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar",
+        "quantities": {
+            "Concrete Work": "5,139.98",
+            "Brick Masonry": "2,069.95",
+            "Earth Work": "244,016.79"
+        }
+    },
+    {
+        "raw_name": "Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.",
+        "normalized_name": "widening and strenthening of road from basariya nh to sarairanjan nh via ramnagar chowk bella megh chowk jhakhra sarairanjan saraiya morwa under road division rosera from ch km to for the year",
+        "quantities": {
+            "Concrete Work": "96.25",
+            "Earth Work": "11,819.48",
+            "GSB": "83.16",
+            "WMM": "938.27",
+            "Bituminous Work": "2,247.27"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.",
+        "normalized_name": "widening strengthening work of vishwakarma chowk to guabadi narayanpipar chaurahi block head via bakhadda chowk of cheriya bariyarpur block for the year",
+        "quantities": {
+            "Concrete Work": "450.24",
+            "Earth Work": "40,606.27",
+            "GSB": "589.47",
+            "WMM": "3,291.44",
+            "Bituminous Work": "5,528.94"
+        }
+    },
+    {
+        "raw_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+        "normalized_name": "long term output and performance based road maintenance work for the roads package no a oprmc benipur",
+        "quantities": {
+            "Concrete Work": "274.15",
+            "GSB": "94.08",
+            "Bituminous Work": "5,903.18"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of dharraura chowk to mazampur bajidpur bahera jhanjharpur road in km to in darbhanga district under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "2,218.65",
+            "Earth Work": "31,208.22",
+            "Brick Soling": "16.66",
+            "GSB": "788.84",
+            "WMM": "510.05",
+            "Bituminous Work": "2,496.52"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of supaul to bauram road in km to under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "2,116.46",
+            "Earth Work": "17,764.00",
+            "GSB": "6,988.78"
+        }
+    },
+    {
+        "raw_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+        "normalized_name": "widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc",
+        "quantities": {
+            "Concrete Work": "2,480.30",
+            "GSB": "9,345.00",
+            "WMM": "9,146.48",
+            "Bituminous Work": "1,420.57"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+        "normalized_name": "widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year",
+        "quantities": {
+            "Earth Work": "75,923.11",
+            "GSB": "3,882.51",
+            "WMM": "7,778.12",
+            "Bituminous Work": "836.94",
+            "Boulder Pitching": "4,287.98"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+        "normalized_name": "widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year",
+        "quantities": {
+            "Concrete Work": "6,034.36",
+            "Earth Work": "13,099.00",
+            "GSB": "4,368.06",
+            "WMM": "8,849.90",
+            "Bituminous Work": "1,690.33"
+        }
+    },
+    {
+        "raw_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+        "normalized_name": "construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year",
+        "quantities": {
+            "Concrete Work": "425.16",
+            "Earth Work": "540,938.12",
+            "GSB": "13,605.00",
+            "WMM": "3,429.38"
+        }
+    },
+    {
+        "raw_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "normalized_name": "civil works including building and u g piping works for hurl project barauni subcontract from technip india limited",
+        "quantities": {
+            "Concrete Work": "6,743.31",
+            "Brick Masonry": "245.01",
+            "Earth Work": "3,447.92"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+        "normalized_name": "subcontract for piling works for ohcu project iocl barauni",
+        "quantities": {
+            "Concrete Work": "2,248.99",
+            "Piling": "11,454.00"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI",
+        "normalized_name": "subcontract for piling works of dhdt unit at iocl barauni",
+        "quantities": {
+            "Concrete Work": "1,677.02",
+            "Piling": "8,541.00"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "817.01",
+            "Piling": "4,161.00"
+        }
+    },
+    {
+        "raw_name": "1RESTORATION AND LINING OF SONE WESTERN LINK CANAL,2CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL,3Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar,4Widening and Strenthening of Road from Basariya, NH-28 to Sarairanjan, NH-103 via Ramnagar chowk (Bella-Megh chowk), Jhakhra, Sarairanjan, Saraiya, Morwa under Road Division, Rosera from Ch. Km. 5.600 to 12.270 for the year 2018-19.,5Widening & Strengthening work of Vishwakarma Chowk to Guabadi,Narayanpipar, Chaurahi Block Head Via-Bakhadda Chowk of Cheriya Bariyarpur Block for the year 2019-20.,6 Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.,7Widening & Strengthening of Dharraura Chowk to Mazampur Bajidpur-Bahera Jhanjharpur road in km 0.0 to 11.64 in darbhanga district under Road Division, Benipur for the year 2019-20,8Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20,9Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 ),10Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20,11Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20,12Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20,13Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED,14Subcontract for Piling Works for OHCU Project, IOCL Barauni,15Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI,16Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "restoration and lining of sone western link canal construction of canal and its lining work and structures from r d to r d under tirhut main canal lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar widening and strenthening of road from basariya nh to sarairanjan nh via ramnagar chowk bella megh chowk jhakhra sarairanjan saraiya morwa under road division rosera from ch km to for the year widening strengthening work of vishwakarma chowk to guabadi narayanpipar chaurahi block head via bakhadda chowk of cheriya bariyarpur block for the year long term output and performance based road maintenance work for the roads package no a oprmc benipur widening strengthening of dharraura chowk to mazampur bajidpur bahera jhanjharpur road in km to in darbhanga district under road division benipur for the year widening strengthening of supaul to bauram road in km to under road division benipur for the year widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year civil works including building and u g piping works for hurl project barauni subcontract from technip india limited subcontract for piling works for ohcu project iocl barauni subcontract for piling works of dhdt unit at iocl barauni subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "53,917.18",
+            "Brick Masonry": "2,314.95",
+            "Earth Work": "1,231,155.92",
+            "Sand Filling": "14,223.01",
+            "Brick Soling": "16.66",
+            "GSB": "53,137.91",
+            "WMM": "33,943.64",
+            "Bituminous Work": "20,123.75",
+            "Boulder Pitching": "10,567.98",
+            "Piling": "24,156.00"
+        }
+    },
+    {
+        "raw_name": "RESTORATION AND LINING OF SONE WESTERN LINK CANAL",
+        "normalized_name": "restoration and lining of sone western link canal",
+        "quantities": {
+            "Concrete Work": "3,831.02",
+            "Earth Work": "12,485.84",
+            "Sand Filling": "31,102.90",
+            "GSB": "94.41",
+            "Boulder Pitching": "349.92"
+        }
+    },
+    {
+        "raw_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal",
+        "quantities": {
+            "Concrete Work": "5,012.29",
+            "Brick Masonry": "507.50",
+            "Earth Work": "34,920.89"
+        }
+    },
+    {
+        "raw_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+        "normalized_name": "lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar",
+        "quantities": {
+            "Concrete Work": "6,309.72",
+            "Brick Masonry": "1,809.43",
+            "Earth Work": "11,983.55"
+        }
+    },
+    {
+        "raw_name": "Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.",
+        "normalized_name": "long term output and performance based road maintenance work for the roads package no a oprmc benipur",
+        "quantities": {
+            "Concrete Work": "305.22",
+            "GSB": "78.81"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of supaul to bauram road in km to under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "5,525.26",
+            "Earth Work": "29,340.90",
+            "GSB": "9,009.05",
+            "WMM": "11,007.12",
+            "Bituminous Work": "3,360.21"
+        }
+    },
+    {
+        "raw_name": "Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 )",
+        "normalized_name": "widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc",
+        "quantities": {
+            "Concrete Work": "1,310.03",
+            "Earth Work": "60,567.54",
+            "GSB": "3,613.60",
+            "WMM": "4,134.85",
+            "Bituminous Work": "10,933.74"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+        "normalized_name": "widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year",
+        "quantities": {
+            "GSB": "204.36",
+            "WMM": "952.54",
+            "Bituminous Work": "2,317.28",
+            "Boulder Pitching": "1,091.20"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+        "normalized_name": "widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year",
+        "quantities": {
+            "Concrete Work": "3,795.32",
+            "Earth Work": "56,053.12",
+            "GSB": "1,949.61",
+            "WMM": "6,754.90",
+            "Bituminous Work": "5,845.79"
+        }
+    },
+    {
+        "raw_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+        "normalized_name": "construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year",
+        "quantities": {
+            "Concrete Work": "2,452.86",
+            "Earth Work": "71,736.46",
+            "GSB": "10,413.60",
+            "WMM": "3,391.88"
+        }
+    },
+    {
+        "raw_name": "Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED",
+        "normalized_name": "civil works including building and u g piping works for hurl project barauni subcontract from technip india limited",
+        "quantities": {
+            "Concrete Work": "2,213.56",
+            "Earth Work": "1,119.07"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+        "normalized_name": "subcontract for piling works for ohcu project iocl barauni",
+        "quantities": {
+            "Concrete Work": "1,442.97",
+            "Piling": "7,349.00"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI",
+        "normalized_name": "subcontract for piling works of dhdt unit at iocl barauni",
+        "quantities": {
+            "Concrete Work": "4,076.02",
+            "Piling": "20,759.24"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "2,123.91",
+            "Piling": "10,817.00"
+        }
+    },
+    {
+        "raw_name": "1RESTORATION AND LINING OF SONE WESTERN LINK CANAL,2CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL,3Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar,4 Long Term Output and Performance based Road Maintenance work for the roads  Package No.9A/OPRMC2/Benipur.,5Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20,6Widening and Strengthening (from Single Lane to Double Lane) of Turki (N.H.-77)-Saraiya (N.H.-102) Road (Km 0.000 to Km 21.825) under PMGSY (RCP-LWE) in the district of Muzaffarpur, Bihar for the year 2019-20 (Package No. BR23RC-119 ),7Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20,8Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20,9Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20,10Civil Works including Building and U.G.Piping Works for HURL Project, Barauni. SUBCONTRACT FROM TECHNIP INDIA LIMITED,11Subcontract for Piling Works for OHCU Project, IOCL Barauni,12Subcontract for Piling Works of DHDT Unit at IOCL BARAUNI,13Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "restoration and lining of sone western link canal construction of canal and its lining work and structures from r d to r d under tirhut main canal lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar long term output and performance based road maintenance work for the roads package no a oprmc benipur widening strengthening of supaul to bauram road in km to under road division benipur for the year widening and strengthening from single lane to double lane of turki n h saraiya n h road km to km under pmgsy rcp lwe in the district of muzaffarpur bihar for the year package no br rc widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year civil works including building and u g piping works for hurl project barauni subcontract from technip india limited subcontract for piling works for ohcu project iocl barauni subcontract for piling works of dhdt unit at iocl barauni subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "38,398.17",
+            "Brick Masonry": "2,316.93",
+            "Earth Work": "278,207.37",
+            "Sand Filling": "31,102.90",
+            "GSB": "25,363.45",
+            "WMM": "26,241.29",
+            "Bituminous Work": "22,457.02",
+            "Boulder Pitching": "1,441.12",
+            "Piling": "38,925.24"
+        }
+    },
+    {
+        "raw_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal",
+        "quantities": {
+            "Concrete Work": "6,164.25",
+            "Brick Masonry": "1,060.39",
+            "Earth Work": "16,161.47"
+        }
+    },
+    {
+        "raw_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+        "normalized_name": "lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar",
+        "quantities": {
+            "Concrete Work": "4,830.91",
+            "Brick Masonry": "2,207.58",
+            "Earth Work": "93,270.00"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20",
+        "normalized_name": "widening strengthening of supaul to bauram road in km to under road division benipur for the year",
+        "quantities": {
+            "Concrete Work": "978.76",
+            "Earth Work": "2,691.84",
+            "GSB": "404.45",
+            "Bituminous Work": "601.87",
+            "Boulder Pitching": "121.45"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+        "normalized_name": "widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year",
+        "quantities": {
+            "Boulder Pitching": "1,800.00"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+        "normalized_name": "widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year",
+        "quantities": {
+            "Earth Work": "24,088.97"
+        }
+    },
+    {
+        "raw_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+        "normalized_name": "construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year",
+        "quantities": {
+            "Concrete Work": "5,426.59",
+            "Earth Work": "620,866.95",
+            "GSB": "45,607.80",
+            "WMM": "26,367.97",
+            "Bituminous Work": "6,953.80"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Works for OHCU Project, IOCL Barauni",
+        "normalized_name": "subcontract for piling works for ohcu project iocl barauni",
+        "quantities": {
+            "Concrete Work": "37.50",
+            "Piling": "191.00"
+        }
+    },
+    {
+        "raw_name": "Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "240.72",
+            "Steel (Reinforcement)": "3.02",
+            "Earth Work": "4,394.00",
+            "Piling": "1,225.83"
+        }
+    },
+    {
+        "raw_name": "1Widening & Strengthening of Supaul to Bauram Road in Km 0.00 to 12.20 under Road Division Benipur for the year 2019-20,2Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20,3Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20,4Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20,5Subcontract for Piling Works for OHCU Project, IOCL Barauni,6Subcontract for Piling Work for NHT-ll + ISOM-ll Unit at IOCL, Barauni, Bihar",
+        "normalized_name": "widening strengthening of supaul to bauram road in km to under road division benipur for the year widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year subcontract for piling works for ohcu project iocl barauni subcontract for piling work for nht ll isom ll unit at iocl barauni bihar",
+        "quantities": {
+            "Concrete Work": "17,678.74",
+            "Steel (Reinforcement)": "3.02",
+            "Brick Masonry": "3,267.97",
+            "Earth Work": "761,473.23",
+            "GSB": "46,012.25",
+            "WMM": "26,367.97",
+            "Bituminous Work": "7,555.67",
+            "Boulder Pitching": "1,921.45",
+            "Piling": "1,416.83"
+        }
+    },
+    {
+        "raw_name": "CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal",
+        "quantities": {
+            "Concrete Work": "2,456.82",
+            "Brick Masonry": "512.40",
+            "Earth Work": "153,569.22"
+        }
+    },
+    {
+        "raw_name": "Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar",
+        "normalized_name": "lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar",
+        "quantities": {
+            "Concrete Work": "4,358.12",
+            "Brick Masonry": "1,353.97",
+            "Earth Work": "24,268.01"
+        }
+    },
+    {
+        "raw_name": "Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20",
+        "normalized_name": "construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year",
+        "quantities": {
+            "Concrete Work": "190.80",
+            "Earth Work": "371,710.49",
+            "GSB": "68,802.67",
+            "WMM": "42,824.68",
+            "Bituminous Work": "9,941.77"
+        }
+    },
+    {
+        "raw_name": "Restoration Work of Saran Main Canal From K.m. 0.00 to K.M. 17.00",
+        "normalized_name": "restoration work of saran main canal from k m to k m",
+        "quantities": {
+            "Concrete Work": "35,728.06",
+            "Earth Work": "1,284,228.04",
+            "Sand Filling": "27,890.68"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Muktapur-Warisnagar-Bhadohighat-Hatauri Road in Km. 00 to 23.300 (Total Length - 23.30 Km) for the year 2019-20",
+        "normalized_name": "widening strengthening of muktapur warisnagar bhadohighat hatauri road in km to total length km for the year",
+        "quantities": {
+            "Concrete Work": "732.28",
+            "Earth Work": "15,162.38"
+        }
+    },
+    {
+        "raw_name": "Widening & Strengthening of Magardahi Ghat to Siliut (Durga Asthan) road in Km. 0.00 to 5.00 (Total Length 5.00 Km) for the Year 2019-20",
+        "normalized_name": "widening strengthening of magardahi ghat to siliut durga asthan road in km to total length km for the year",
+        "quantities": {
+            "Earth Work": "2,437.23",
+            "Bituminous Work": "0.45",
+            "Boulder Pitching": "318.00"
+        }
+    },
+    {
+        "raw_name": "1CONSTRUCTION OF CANAL AND ITS LINING WORK AND STRUCTURES FROM R.D. 806.40 TO R.D. 827.70 UNDER TIRHUT MAIN CANAL,2Lining work of Chausa Branch Canal from 0.000 Km to 12.924 Km & Restoration of Kochas and Indaur Distributary under Ganga Pump Canal Division, Chausa Buxar,3Construction and upgradation of existing Road along Indo-Nepal Border Road Project from Kanhauli to Sursand (Length=49.150 km) Under Sitamarhi District for the year 2019-20,4Restoration Work of Saran Main Canal From K.m. 0.00 to K.M. 17.00,5,6",
+        "normalized_name": "construction of canal and its lining work and structures from r d to r d under tirhut main canal lining work of chausa branch canal from km to km restoration of kochas and indaur distributary under ganga pump canal division chausa buxar construction and upgradation of existing road along indo nepal border road project from kanhauli to sursand length km under sitamarhi district for the year restoration work of saran main canal from k m to k m",
+        "quantities": {
+            "Concrete Work": "43,466.08",
+            "Brick Masonry": "1,866.37",
+            "Earth Work": "1,851,375.37",
+            "Sand Filling": "27,890.68",
+            "GSB": "68,802.67",
+            "WMM": "42,824.68",
+            "Bituminous Work": "9,942.22",
+            "Boulder Pitching": "318.00"
+        }
+    },
+    {
+        "raw_name": "in any 1 year during last 5 year 2020-2021 TO 2024-2025",
+        "normalized_name": "in any year during last year to",
+        "quantities": {
+            "Concrete Work": "53,917.18",
+            "Steel (Reinforcement)": "3.02",
+            "Brick Masonry": "3,267.97",
+            "Earth Work": "1,851,375.37",
+            "Sand Filling": "31,102.90",
+            "Brick Soling": "6,798.73",
+            "GSB": "68,802.67",
+            "WMM": "42,824.68",
+            "Bituminous Work": "22,457.02",
+            "Backfilling": "15.66",
+            "Boulder Pitching": "10,567.98",
+            "Piling": "38,925.24"
+        }
+    },
+    {
+        "raw_name": "TOTAL DURING LAST 5 YRS",
+        "normalized_name": "total during last yrs",
+        "quantities": {
+            "Concrete Work": "207,120.78",
+            "Steel (Reinforcement)": "3.02",
+            "Brick Masonry": "11,887.70",
+            "Earth Work": "5,535,600.63",
+            "Sand Filling": "89,336.02",
+            "Brick Soling": "6,815.38",
+            "GSB": "261,710.00",
+            "WMM": "170,422.21",
+            "Bituminous Work": "75,038.19",
+            "Backfilling": "15.66",
+            "Boulder Pitching": "19,062.95",
+            "Piling": "64,498.07"
+        }
+    },
+    {
+        "raw_name": "OHCU CIVIL",
+        "normalized_name": "ohcu civil",
+        "quantities": {
+            "Concrete Work": "12,858.17",
+            "Steel (Reinforcement)": "2,613.59",
+            "Earth Work": "31,557.65",
+            "Sand Filling": "643.40",
+            "Brick Soling": "167.53",
+            "Piling": "16,203.83"
+        }
+    },
+    {
+        "raw_name": "DHDT CIVIL",
+        "normalized_name": "dhdt civil",
+        "quantities": {
+            "Concrete Work": "15,160.85",
+            "Earth Work": "83,508.00",
+            "Sand Filling": "1,799.00",
+            "GSB": "4,560.55",
+            "WMM": "466.35"
+        }
+    },
+    {
+        "raw_name": "NHT ISOM CIVIL",
+        "normalized_name": "nht isom civil",
+        "quantities": {
+            "Concrete Work": "1,060.71",
+            "Earth Work": "4,394.00"
+        }
+    }
+]

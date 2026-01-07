@@ -1,6 +1,14 @@
 export default function Footer() {
   return (
-    <footer className="bg-[#0B2C4D] text-white">
+    <footer className="bg-[#0B2C4D] text-white relative overflow-hidden">
+      {/* Background Texture */}
+      <div className="absolute inset-0 z-0 pointer-events-none">
+        <img
+          src="/images/bg-texture-3.jpg"
+          alt="Background Texture"
+          className="w-full h-full object-cover grayscale opacity-[0.2]"
+        />
+      </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* Company Info */}

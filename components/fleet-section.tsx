@@ -70,7 +70,8 @@ export default function FleetSection() {
 
           {/* The "Full Fleet Management" Card - Central/Prominent */}
           <Link href="/fleet" className="md:col-span-2 group relative z-20 overflow-hidden rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-500 border border-transparent hover:border-[#F28C28] block">
-            <div className="absolute inset-0 bg-[#0B2C4D] group-hover:scale-105 transition-transform duration-700 pointer-events-none"></div>
+            <div className="absolute inset-0 bg-[#0B2C4D] transition-transform duration-700 pointer-events-none"></div>
+            <img src="/images/projects/5.jpg" alt="Fleet Background" className="absolute inset-0 w-full h-full object-cover grayscale opacity-20 group-hover:scale-105 transition-transform duration-700 pointer-events-none" />
 
             {/* Decorative Elements */}
             <div className="absolute -right-20 -bottom-20 w-80 h-80 bg-[#1a4b7c] rounded-full blur-3xl opacity-50 group-hover:bg-[#F28C28] group-hover:opacity-20 transition-colors duration-500 pointer-events-none"></div>

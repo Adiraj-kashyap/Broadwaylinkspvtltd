@@ -22,7 +22,7 @@ function NavbarContent() {
     { label: "Projects", href: "/projects", id: "", isScroll: false },
     { label: "Sectors", href: "/sectors", id: "sectors", isScroll: true },
     { label: "Fleet", href: "/fleet", id: "fleet", isScroll: true },
-    { label: "Contact", href: "/contact", id: "contact", isScroll: true },
+    // { label: "Contact", href: "/contact", id: "contact", isScroll: true },
   ]
 
   // Handle initial scroll from query params (e.g. /?target=about)

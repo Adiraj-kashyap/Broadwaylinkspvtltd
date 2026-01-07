@@ -73,7 +73,15 @@ export default function ContactSection() {
   ]
 
   return (
-    <section id="contact" className="py-16 md:py-24 bg-[#F5F7FA]">
+    <section id="contact" className="py-16 md:py-24 bg-[#F5F7FA] relative overflow-hidden">
+      {/* Background Texture */}
+      <div className="absolute inset-0 z-0 pointer-events-none">
+        <img
+          src="/images/bg-texture-4.jpg"
+          alt="Background Texture"
+          className="w-full h-full object-cover grayscale opacity-[0.2]"
+        />
+      </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.h2
           initial={{ opacity: 0, y: 20 }}

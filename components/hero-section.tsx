@@ -19,22 +19,11 @@ export default function HeroSection() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/site-view-1.jpg"
+          src="/images/projects/1.jpg"
           alt="Infrastructure Background"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover grayscale"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-[#0B2C4D]/95 to-[#0B2C4D]/80"></div>
-        {/* CSS Pattern Overlay */}
-        <div className="absolute inset-0 opacity-10">
-          <svg className="w-full h-full" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-                <path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" strokeWidth="1" />
-              </pattern>
-            </defs>
-            <rect width="100%" height="100%" fill="url(#hero-grid)" />
-          </svg>
-        </div>
+        <div className="absolute inset-0 bg-[#0B2C4D]/90 mix-blend-multiply"></div>
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

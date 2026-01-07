@@ -164,7 +164,7 @@ export default function BrandPage({ params }: { params: Promise<{ id: string }> 
 
     const filteredEquipment = useMemo(() => {
         // Filter by either brand OR equipment name
-        return fleetData.filter((item) => {
+        return fleetData.filter((item: any) => {
             const matchesId = item.brand === filterId || item.equipment === filterId
             if (!matchesId) return false
 

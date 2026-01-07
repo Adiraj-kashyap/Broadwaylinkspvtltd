@@ -20,8 +20,8 @@ export default function Home() {
             <FleetSection />
             <ClientsSection />
             <HistorySection />
-            <JobsSection />
-            <ContactSection />
+            {/* <JobsSection /> */}
+            {/* <ContactSection /> */}
         </main>
     )
 }

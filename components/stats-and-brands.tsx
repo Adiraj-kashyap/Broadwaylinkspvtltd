@@ -1,9 +1,9 @@
 "use client"
 
 import { motion } from "framer-motion"
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts"
-import { TrendingUp, Truck, HardHat, Building2, CheckCircle2 } from "lucide-react"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Cell } from "recharts"
+import { TrendingUp, Truck, HardHat, Building2, CheckCircle2, Factory, Zap } from "lucide-react"
+import { Card, CardContent } from "@/components/ui/card"
 import financialsData from "@/data/financials.json"
 import profileData from "@/data/profile.json"
 import capabilitiesData from "@/data/capabilities.json"
@@ -26,31 +26,72 @@ export default function StatsAndBrands() {
     ]
 
     return (
-        <section className="py-20 bg-white">
-            <div className="max-w-7xl mx-auto px-4">
+        <section className="py-20 bg-white relative overflow-hidden">
+            {/* Background Texture */}
+            <div className="absolute inset-0 z-0">
+                <img
+                    src="/images/bg-texture-1.jpg"
+                    alt="Background Texture"
+                    className="w-full h-full object-cover grayscale opacity-[0.2]"
+                />
+            </div>
+            <div className="max-w-7xl mx-auto px-4 relative z-10">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                     {/* Left: Financial Growth */}
                     <motion.div
                         initial={{ opacity: 0, x: -50 }}
                         whileInView={{ opacity: 1, x: 0 }}
                         viewport={{ once: true }}
+                        className="bg-white rounded-3xl p-8 shadow-2xl border border-gray-100"
                     >
-                        <h2 className="text-3xl font-bold text-[#0B2C4D] mb-6">Consistent Growth Track Record</h2>
-                        <p className="text-gray-600 mb-8">
-                            With an average annual turnover of <strong>₹{(financialsData.average_annual_turnover / 10000000).toFixed(1)} Crores</strong> for the last 5 years and a strong balance sheet,
-                            BLPL demonstrates financial stability and execution capability for large-scale infrastructure projects.
+                        <h2 className="text-4xl font-bold text-[#0B2C4D] mb-6 tracking-tight">Financial Growth</h2>
+                        <p className="text-gray-600 mb-8 text-lg font-light leading-relaxed">
+                            With an average annual turnover of <strong className="text-[#F28C28] text-2xl">₹{(financialsData.average_annual_turnover / 10000000).toFixed(1)} Cr</strong> for the last 5 years,
+                            BLPL demonstrates unshakeable financial stability and execution capability for large-scale infrastructure projects.
                         </p>
 
-                        <div className="h-[300px] w-full bg-gray-50 p-4 rounded-xl border border-gray-100">
+                        <div className="h-[350px] w-full mt-4">
                             <ResponsiveContainer width="100%" height="100%">
-                                <BarChart data={chartData}>
-                                    <XAxis dataKey="year" fontSize={12} tickLine={false} axisLine={false} />
-                                    <YAxis fontSize={12} tickLine={false} axisLine={false} tickFormatter={(value) => `₹${value} Cr`} />
-                                    <Tooltip
-                                        cursor={{ fill: '#f3f4f6' }}
-                                        contentStyle={{ borderRadius: '8px', border: 'none', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}
+                                <BarChart data={chartData} margin={{ top: 20, right: 20, bottom: 20, left: -20 }}>
+                                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#E5E7EB" />
+                                    <XAxis
+                                        dataKey="year"
+                                        fontSize={12}
+                                        tickLine={false}
+                                        axisLine={false}
+                                        tick={{ fill: '#6B7280', fontWeight: 600 }}
+                                        dy={10}
                                     />
-                                    <Bar dataKey="turnover" fill="#F28C28" radius={[4, 4, 0, 0]} />
+                                    <YAxis
+                                        fontSize={12}
+                                        tickLine={false}
+                                        axisLine={false}
+                                        tickFormatter={(value) => `₹${value}Cr`}
+                                        tick={{ fill: '#6B7280' }}
+                                    />
+                                    <Tooltip
+                                        cursor={{ fill: 'rgba(242, 140, 40, 0.1)' }}
+                                        contentStyle={{
+                                            borderRadius: '12px',
+                                            border: 'none',
+                                            boxShadow: '0 10px 25px -5px rgba(0, 0, 0, 0.1)',
+                                            backgroundColor: '#0B2C4D',
+                                            color: '#fff'
+                                        }}
+                                        itemStyle={{ color: '#fff' }}
+                                        formatter={(value: any) => [`₹${value} Cr`, 'Turnover']}
+                                    />
+                                    <Bar dataKey="turnover" radius={[6, 6, 0, 0]} barSize={40}>
+                                        {chartData.map((entry, index) => (
+                                            <Cell key={`cell-${index}`} fill="url(#colorGradient)" />
+                                        ))}
+                                    </Bar>
+                                    <defs>
+                                        <linearGradient id="colorGradient" x1="0" y1="0" x2="0" y2="1">
+                                            <stop offset="0%" stopColor="#F28C28" stopOpacity={1} />
+                                            <stop offset="100%" stopColor="#F28C28" stopOpacity={0.6} />
+                                        </linearGradient>
+                                    </defs>
                                 </BarChart>
                             </ResponsiveContainer>
                         </div>
@@ -150,14 +191,15 @@ export default function StatsAndBrands() {
 
 function StatCard({ icon: Icon, value, label, sub }: any) {
     return (
-        <Card className="border-none shadow-lg shadow-gray-100 hover:-translate-y-2 transition-all duration-300 hover:shadow-2xl hover:border-[#F28C28] border border-transparent group relative z-10">
-            <CardContent className="p-6">
-                <div className="w-12 h-12 rounded-full bg-orange-50 flex items-center justify-center mb-4 group-hover:bg-[#F28C28] transition-colors duration-300">
-                    <Icon className="w-6 h-6 text-[#F28C28] group-hover:text-white transition-colors duration-300" />
+        <Card className="border-none shadow-lg hover:shadow-xl transition-all duration-500 bg-white group overflow-hidden relative">
+            <div className="absolute top-0 right-0 w-32 h-32 bg-gray-50 rounded-full -mr-16 -mt-16 z-0 group-hover:bg-[#F28C28]/10 transition-colors duration-500"></div>
+            <CardContent className="p-8 relative z-10">
+                <div className="w-14 h-14 rounded-xl bg-orange-50 flex items-center justify-center mb-6 group-hover:bg-[#F28C28] transition-colors duration-500 group-hover:scale-110 transform">
+                    <Icon className="w-7 h-7 text-[#F28C28] group-hover:text-white transition-colors duration-500" />
                 </div>
-                <h3 className="text-3xl font-bold text-[#0B2C4D] mb-1">{value}</h3>
-                <p className="font-medium text-gray-700">{label}</p>
-                <p className="text-sm text-gray-500 mt-1">{sub}</p>
+                <h3 className="text-4xl font-bold text-[#0B2C4D] mb-2 tracking-tight group-hover:translate-x-1 transition-transform">{value}</h3>
+                <p className="font-semibold text-gray-800 text-lg mb-1">{label}</p>
+                <p className="text-sm text-gray-500">{sub}</p>
             </CardContent>
         </Card>
     )
